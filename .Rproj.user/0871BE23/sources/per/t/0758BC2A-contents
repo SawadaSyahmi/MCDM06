@@ -2246,10 +2246,10 @@ server <- function(input, output) {
 
 
         level2_Technical<- data.frame(
-            Name = c("Freq_Distance",
-                     "Freq_Scalibility",
-                     "Freq_DataRate",
-                     "Freq_Reliability",
+            Name = c("Mobi_Distance",
+                     "Mobi_Scalibility",
+                     "Mobi_DataRate",
+                     "Mobi_Reliability",
                      "Distance_Scalibility",
                      "Distance_DataRate",
                      "Distance_Reliability",
@@ -2295,7 +2295,7 @@ server <- function(input, output) {
 
 
         level2_Infrastructure<- data.frame(
-            Name =c("ExtInfra_SpectrumAvail"),
+            Name =c("ExtInfra_TEchMaturity"),
 
 
             Value =  as.integer(c(alvl211)),
@@ -2306,7 +2306,7 @@ server <- function(input, output) {
         #########################     LEVEL 3 ###################################################
 
 
-        level3_Freq <- data.frame(
+        level3_Mobi <- data.frame(
             Name = c( "NBPLC_Fiber Optic",
                       "NBPLC_Zigbee",
                       "NBPLC_WiFi/RF Mesh",
@@ -2368,7 +2368,7 @@ server <- function(input, output) {
 
             stringsAsFactors = FALSE)
 
-        Inlevel3_Freq<-level3_Freq
+        Inlevel3_Mobi<-level3_Mobi
 
         level3_Distance<- data.frame(
             Name = c( "NBPLC_Fiber Optic",
@@ -3057,7 +3057,7 @@ server <- function(input, output) {
         # #print(level2_serviceStandard)
         # #print(level2_Econ)
         # #print(level2_Infrastructure)
-        # #print(level3_Freq)
+        # #print(level3_Mobi)
 
 
 
@@ -3093,7 +3093,7 @@ server <- function(input, output) {
         ahpscale_alvl2_2<-as.integer(ahpscale_alvl2_2)
         ahpscale_alvl2_2a<-ahpscale_alvl2_2
         ahpscale_alvl2_2<-as.matrix(rbind(ahpscale_alvl2_2,ahpscale_alvl2_2a))
-        colnames(ahpscale_alvl2_2)<-c("ExtInfra_SpectrumAvail")
+        colnames(ahpscale_alvl2_2)<-c("ExtInfra_TEchMaturity")
         ahpscale_alvl2_2<-ahpscale_alvl2_2[c(-2),,drop=FALSE]
         # #print(ahpscale_alvl2_2)
 
@@ -3113,10 +3113,10 @@ server <- function(input, output) {
         ahpscale_alvl2_4<-as.integer(ahpscale_alvl2_4)
         ahpscale_alvl2_4a<-ahpscale_alvl2_4
         ahpscale_alvl2_4<-as.matrix(rbind(ahpscale_alvl2_4,ahpscale_alvl2_4a))
-        colnames(ahpscale_alvl2_4)<-c("Freq_Distance",
-                                      "Freq_Scalibility",
-                                      "Freq_DataRate",
-                                      "Freq_Reliability",
+        colnames(ahpscale_alvl2_4)<-c("Mobi_Distance",
+                                      "Mobi_Scalibility",
+                                      "Mobi_DataRate",
+                                      "Mobi_Reliability",
                                       "Distance_Scalibility",
                                       "Distance_DataRate",
                                       "Distance_Reliability",
@@ -3126,7 +3126,7 @@ server <- function(input, output) {
         ahpscale_alvl2_4<-ahpscale_alvl2_4[c(-2),,drop=FALSE]
         # #print(ahpscale_alvl2_4)
 
-        ahpscale_alvl3_1 <- transpose(level3_Freq)
+        ahpscale_alvl3_1 <- transpose(level3_Mobi)
         ahpscale_alvl3_1<-ahpscale_alvl3_1[-1,]
         ahpscale_alvl3_1<-as.integer(ahpscale_alvl3_1)
         ahpscale_alvl3_1a<-ahpscale_alvl3_1
@@ -3285,7 +3285,7 @@ server <- function(input, output) {
         eigenmean_alvl2_3= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl2_4, atts = c("Frequency","Distance", "Scalibility", "DataRate", "Reliability"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl2_4, atts = c("Mobiuency","Distance", "Scalibility", "DataRate", "Reliability"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=5, ncol=5,  byrow=TRUE))
@@ -6280,10 +6280,10 @@ server <- function(input, output) {
 
 
         level2_Technical<- data.frame(
-            Name = c("Freq_Distance",
-                     "Freq_Scalibility",
-                     "Freq_DataRate",
-                     "Freq_Reliability",
+            Name = c("Mobi_Distance",
+                     "Mobi_Scalibility",
+                     "Mobi_DataRate",
+                     "Mobi_Reliability",
                      "Distance_Scalibility",
                      "Distance_DataRate",
                      "Distance_Reliability",
@@ -6329,7 +6329,7 @@ server <- function(input, output) {
 
 
         level2_Infrastructure<- data.frame(
-            Name =c("ExtInfra_SpectrumAvail"),
+            Name =c("ExtInfra_TEchMaturity"),
 
 
             Value =  as.integer(c(blvl211)),
@@ -6340,7 +6340,7 @@ server <- function(input, output) {
         #########################     LEVEL 3 ###################################################
 
 
-        level3_Freq <- data.frame(
+        level3_Mobi <- data.frame(
             Name = c( "NBPLC_UHF",
                       "NBPLC_Fiber Optic",
                       "NBPLC_Zigbee",
@@ -6417,9 +6417,9 @@ server <- function(input, output) {
                                  blvl3135 )),
 
             stringsAsFactors = FALSE)
-        #print(level3_Freq)
+        #print(level3_Mobi)
 
-        Inlevel3_Freq<-level3_Freq
+        Inlevel3_Mobi<-level3_Mobi
 
         level3_Distance<- data.frame(
             Name = c( "NBPLC_UHF",
@@ -7283,7 +7283,7 @@ server <- function(input, output) {
         # #print(level2_serviceStandard)
         # #print(level2_Econ)
         # #print(level2_Infrastructure)
-        # #print(level3_Freq)
+        # #print(level3_Mobi)
 
 
 
@@ -7319,7 +7319,7 @@ server <- function(input, output) {
         ahpscale_alvl2_2<-as.integer(ahpscale_alvl2_2)
         ahpscale_alvl2_2a<-ahpscale_alvl2_2
         ahpscale_alvl2_2<-as.matrix(rbind(ahpscale_alvl2_2,ahpscale_alvl2_2a))
-        colnames(ahpscale_alvl2_2)<-c("ExtInfra_SpectrumAvail")
+        colnames(ahpscale_alvl2_2)<-c("ExtInfra_TEchMaturity")
         ahpscale_alvl2_2<-ahpscale_alvl2_2[c(-2),,drop=FALSE]
         # #print(ahpscale_alvl2_2)
 
@@ -7339,10 +7339,10 @@ server <- function(input, output) {
         ahpscale_alvl2_4<-as.integer(ahpscale_alvl2_4)
         ahpscale_alvl2_4a<-ahpscale_alvl2_4
         ahpscale_alvl2_4<-as.matrix(rbind(ahpscale_alvl2_4,ahpscale_alvl2_4a))
-        colnames(ahpscale_alvl2_4)<-c("Freq_Distance",
-                                      "Freq_Scalibility",
-                                      "Freq_DataRate",
-                                      "Freq_Reliability",
+        colnames(ahpscale_alvl2_4)<-c("Mobi_Distance",
+                                      "Mobi_Scalibility",
+                                      "Mobi_DataRate",
+                                      "Mobi_Reliability",
                                       "Distance_Scalibility",
                                       "Distance_DataRate",
                                       "Distance_Reliability",
@@ -7352,7 +7352,7 @@ server <- function(input, output) {
         ahpscale_alvl2_4<-ahpscale_alvl2_4[c(-2),,drop=FALSE]
         # #print(ahpscale_alvl2_4)
 
-        ahpscale_alvl3_1 <- transpose(level3_Freq)
+        ahpscale_alvl3_1 <- transpose(level3_Mobi)
         ahpscale_alvl3_1<-ahpscale_alvl3_1[-1,]
         ahpscale_alvl3_1<-as.integer(ahpscale_alvl3_1)
         ahpscale_alvl3_1a<-ahpscale_alvl3_1
@@ -7931,7 +7931,7 @@ server <- function(input, output) {
         eigenmean_alvl2_3= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl2_4, atts = c("Frequency","Distance", "Scalibility", "DataRate", "Reliability"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl2_4, atts = c("Mobiuency","Distance", "Scalibility", "DataRate", "Reliability"), negconvert = TRUE)
         ##print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=5, ncol=5,  byrow=TRUE))
@@ -10932,10 +10932,10 @@ server <- function(input, output) {
 
 
         level2_Technical<- data.frame(
-            Name = c("Freq_Distance",
-                     "Freq_Scalibility",
-                     "Freq_DataRate",
-                     "Freq_Reliability",
+            Name = c("Mobi_Distance",
+                     "Mobi_Scalibility",
+                     "Mobi_DataRate",
+                     "Mobi_Reliability",
                      "Distance_Scalibility",
                      "Distance_DataRate",
                      "Distance_Reliability",
@@ -10981,7 +10981,7 @@ server <- function(input, output) {
 
 
         level2_Infrastructure<- data.frame(
-            Name =c("ExtInfra_SpectrumAvail"),
+            Name =c("ExtInfra_TEchMaturity"),
 
 
             Value =  as.integer(c(clvl211)),
@@ -10992,7 +10992,7 @@ server <- function(input, output) {
         #########################     LEVEL 3 ###################################################
 
 
-        level3_Freq <- data.frame(
+        level3_Mobi <- data.frame(
             Name = c( "NBPLC_UHF",
                       "NBPLC_Fiber Optic",
                       "NBPLC_Zigbee",
@@ -11071,7 +11071,7 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
 
-        Inlevel3_Freq<-level3_Freq
+        Inlevel3_Mobi<-level3_Mobi
 
         level3_Distance<- data.frame(
             Name = c( "NBPLC_UHF",
@@ -11935,7 +11935,7 @@ server <- function(input, output) {
         # #print(level2_serviceStandard)
         # #print(level2_Econ)
         # #print(level2_Infrastructure)
-        # #print(level3_Freq)
+        # #print(level3_Mobi)
 
 
 
@@ -11971,7 +11971,7 @@ server <- function(input, output) {
         ahpscale_alvl2_2<-as.integer(ahpscale_alvl2_2)
         ahpscale_alvl2_2a<-ahpscale_alvl2_2
         ahpscale_alvl2_2<-as.matrix(rbind(ahpscale_alvl2_2,ahpscale_alvl2_2a))
-        colnames(ahpscale_alvl2_2)<-c("ExtInfra_SpectrumAvail")
+        colnames(ahpscale_alvl2_2)<-c("ExtInfra_TEchMaturity")
         ahpscale_alvl2_2<-ahpscale_alvl2_2[c(-2),,drop=FALSE]
         # #print(ahpscale_alvl2_2)
 
@@ -11991,10 +11991,10 @@ server <- function(input, output) {
         ahpscale_alvl2_4<-as.integer(ahpscale_alvl2_4)
         ahpscale_alvl2_4a<-ahpscale_alvl2_4
         ahpscale_alvl2_4<-as.matrix(rbind(ahpscale_alvl2_4,ahpscale_alvl2_4a))
-        colnames(ahpscale_alvl2_4)<-c("Freq_Distance",
-                                      "Freq_Scalibility",
-                                      "Freq_DataRate",
-                                      "Freq_Reliability",
+        colnames(ahpscale_alvl2_4)<-c("Mobi_Distance",
+                                      "Mobi_Scalibility",
+                                      "Mobi_DataRate",
+                                      "Mobi_Reliability",
                                       "Distance_Scalibility",
                                       "Distance_DataRate",
                                       "Distance_Reliability",
@@ -12004,7 +12004,7 @@ server <- function(input, output) {
         ahpscale_alvl2_4<-ahpscale_alvl2_4[c(-2),,drop=FALSE]
         # #print(ahpscale_alvl2_4)
 
-        ahpscale_alvl3_1 <- transpose(level3_Freq)
+        ahpscale_alvl3_1 <- transpose(level3_Mobi)
         ahpscale_alvl3_1<-ahpscale_alvl3_1[-1,]
         ahpscale_alvl3_1<-as.integer(ahpscale_alvl3_1)
         ahpscale_alvl3_1a<-ahpscale_alvl3_1
@@ -12583,7 +12583,7 @@ server <- function(input, output) {
         eigenmean_alvl2_3= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl2_4, atts = c("Frequency","Distance", "Scalibility", "DataRate", "Reliability"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl2_4, atts = c("Mobiuency","Distance", "Scalibility", "DataRate", "Reliability"), negconvert = TRUE)
         ##print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=5, ncol=5,  byrow=TRUE))
@@ -12804,7 +12804,7 @@ server <- function(input, output) {
             #out
         })
     })
-    
+
 
     observeEvent(input$btn2,{
         output$tabledata2 <- renderPrint({
