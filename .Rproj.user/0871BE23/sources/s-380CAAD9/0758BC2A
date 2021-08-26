@@ -3,7 +3,7 @@
     "path": "C:/Users/User/Desktop/Kerja Sawada Offline/Shiny R Tutorial/UI MCDM 06/MCDM06/MCMD/app.R",
     "project_path": "MCMD/app.R",
     "type": "r_source",
-    "hash": "4203021073",
+    "hash": "2884163942",
     "contents": "",
     "dirty": false,
     "created": 1629707440204.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,50",
-        "scrollLine": "0"
+        "cursorPosition": "13075,92",
+        "scrollLine": "13055"
     },
-    "folds": "",
-    "lastKnownWriteTime": 1629775931,
+    "folds": "31|24|72|0|\n73|30|165|0|\n166|31|2221|0|\n2222|46|2243|0|\n2244|46|2304|0|\n2305|46|3062|0|\n8229|78|8383|0|\n8416|85|8471|0|\n",
+    "lastKnownWriteTime": 1629957470,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1629775931480,
+    "last_content_update": 1629957470379,
     "read_only": false,
     "read_only_alternatives": []
 }
