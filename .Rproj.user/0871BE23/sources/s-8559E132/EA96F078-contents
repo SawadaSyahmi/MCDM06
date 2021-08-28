@@ -79,11 +79,11 @@
           <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
             <h1 class="u-text u-text-body-alt-color u-title u-text-1"><b>Multi-Criteria Decision Making&nbsp;</b>
             </h1>
-            <p class="u-large-text u-text u-text-body-alt-color u-text-variant u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
-            <a href="#" class="u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Read More</a>
+            <p class="u-large-text u-text u-text-body-alt-color u-text-variant u-text-2">A guided strategy for making decisions in selecting wireless communication technology for 11kV substation.</p>
+            <a href="About.html" class="u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Read More</a>
           </div>
         </div>
-        <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-gradient u-section-1-2">
+      <!--  <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-gradient u-section-1-2">
           <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
             <h1 class="u-text u-text-body-alt-color u-title u-text-1"><b>Multi-Criteria Decision Making&nbsp;</b>
             </h1>
@@ -105,7 +105,7 @@
             </h1>
             <p class="u-large-text u-text u-text-body-alt-color u-text-variant u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
             <a href="#" class="u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Read More</a>
-          </div>
+          </div>-->
         </div>
       </div>
       <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-text-grey-30 u-block-17fb-3" href="#carousel_3daa" role="button" data-u-slide="prev">
@@ -126,7 +126,7 @@
     <section class="u-align-center u-clearfix u-section-2" id="sec-339d">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h2 class="u-text u-text-default u-text-1">Key Features</h2>
-        <p class="u-text u-text-default u-text-2">Sample text.</p>
+       <!-- <p class="u-text u-text-default u-text-2">Sample text.</p> -->
         <div class="u-expanded-width u-list u-list-1">
           <div class="u-repeater u-repeater-1">
             <div class="u-container-style u-list-item u-repeater-item">
@@ -136,9 +136,9 @@
 </g>
 </g></svg>
           </span>
-                <h3 class="u-align-center u-text u-text-3">Gifts</h3>
-                <p class="u-align-center u-text u-text-4">Sample text.&nbsp;</p>
-                <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1">learn more</a>
+                <h3 class="u-align-center u-text u-text-3">Decison</h3>
+                <p class="u-align-center u-text u-text-4">Transparent and consistent.&nbsp;</p>
+                <!--<a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1">learn more</a-->
               </div>
             </div>
             <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -149,8 +149,8 @@
 </g></svg>
           </span>
                 <h3 class="u-text u-text-5">Design</h3>
-                <p class="u-text u-text-6">Sample text.&nbsp;</p>
-                <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2">learn more</a>
+                <p class="u-text u-text-6">Reduces the impact of biases.&nbsp;</p>
+                <!--<a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2">learn more</a-->
               </div>
             </div>
             <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -163,8 +163,8 @@
 </g></svg>
           </span>
                 <h3 class="u-text u-text-7">Quality</h3>
-                <p class="u-text u-text-8">Sample text.&nbsp;</p>
-                <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-3">learn more</a>
+                <p class="u-text u-text-8">Explicit weighting of criteria and trade-offs.&nbsp;</p>
+               <!-- <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-3">learn more</a>-->
               </div>
             </div>
           </div>
@@ -9197,20 +9197,20 @@
             <div class="u-layout-col">
               <div class="u-size-60">
                 <div class="u-layout-row">
-                  <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-size-30 u-layout-cell-1">
+                  <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-size-60 u-layout-cell-1">
                     <div class="u-container-layout u-container-layout-1">
                       <h6 class="u-custom-font u-text u-text-font u-text-2">Technology ranking</h6>
                       <p><pre id="tabledata2" name="tabledata2" class="shiny-text-output">Explanation</pre><br>
                       </p>
                     </div>
-                  </div>
-                  <div class="u-align-center u-container-style u-layout-cell u-palette-1-base u-size-30 u-layout-cell-2">
+            <!--</div>
+                 <div class="u-align-center u-container-style u-layout-cell u-palette-1-base u-size-30 u-layout-cell-2">
                     <div class="u-container-layout u-container-layout-2">
                       <h6 class="u-custom-font u-text u-text-font u-text-4">discussion</h6>
                       <p><pre id="tabledata1" name="tabledata1" class="shiny-text-output">Explanation</pre></p>
                     </div>
                   </div>
-                </div>
+                </div>-->
               </div>
             </div>
           </div>

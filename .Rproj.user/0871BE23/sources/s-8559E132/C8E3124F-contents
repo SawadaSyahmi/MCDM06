@@ -9,11 +9,11 @@
     <title>About</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
 <link rel="stylesheet" href="About.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquerynice.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.22.0, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i">
     
     
     
@@ -45,7 +45,7 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-grey-90 u-border-hover-grey-50 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-1-light-2 u-nav-link u-text-active-black u-text-grey-90 u-text-hover-grey-90" href="index.html" style="padding: 10px 0px;">Home</a>
+            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-grey-90 u-border-hover-grey-50 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-1-light-2 u-nav-link u-text-active-black u-text-grey-90 u-text-hover-grey-90" href="Home.html" style="padding: 10px 0px;">Home</a>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-grey-90 u-border-hover-grey-50 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-1-light-2 u-nav-link u-text-active-black u-text-grey-90 u-text-hover-grey-90" href="About.html" style="padding: 10px 0px;">About</a>
 </li></ul>
           </div>
@@ -53,7 +53,7 @@
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html" style="padding: 10px 0px;">Home</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 10px 0px;">Home</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html" style="padding: 10px 0px;">About</a>
 </li></ul>
               </div>
@@ -69,7 +69,8 @@
         <div class="u-align-center u-border-5 u-border-grey-75 u-container-style u-group u-white u-group-1">
           <div class="u-container-layout u-container-layout-1">
             <h2 class="u-custom-font u-font-playfair-display u-text u-text-1">USER GUIDE</h2>
-            <p class="u-text u-text-grey-50 u-text-2">Guide on how to use the MCDM template description</p>
+            <p class="u-text u-text-grey-50 u-text-2">A guide for using the MCDM COMMUNICATION TECHNOLOGY 
+FOR 11kV SUBSTATION program for the selection of the most suitable communication technology for 11kV substations in Malaysia</p>
           </div>
         </div>
       </div>
@@ -83,7 +84,9 @@
                 <div class="u-border-5 u-border-grey-75 u-container-layout u-container-layout-1">
                   <h2 class="u-text u-text-default u-text-1">Multi-Criteria Decison Making Algorithm</h2>
                   <h6 class="u-text u-text-default u-text-2">About MCDM Algorithm</h6>
-                  <p class="u-text u-text-3"> Multi-Criteria Decision-Making (MCDM) refers to strategies for making decisions when numerous criteria must be taken into account simultaneously in order to rank or choose between the alternatives under consideration. One of the most widely employed MCDM techniques is the Analytical Hierarcy Process (AHP), which provides a very robust problem-solving technique based on pairwise comparisons. The MCDM-AHP decomposes problems into a hierarchy of more easily comprehended subproblems, each of which can be analyzed independently.In this MCDM Communication Technology For 11kV Substation program, the MCDM-AHP is used to select and prioritize the most appropriate communication technology to be used in 11kV substations for specific demographics. The selections are based on a variety of criteria including mobility, data rate, and costs (capital and operation expenditures).</p>
+                  <div align="justify"><p class="u-text u-text-3"> Multi-Criteria Decision-Making (MCDM) refers to strategies for making decisions when numerous criteria must be taken into account simultaneously in order to rank or choose between the alternatives under consideration. One of the most widely employed MCDM techniques is the Analytical Hierarcy Process (AHP), which provides a very robust problem-solving technique based on pairwise comparisons. The MCDM-AHP decomposes problems into a hierarchy of more easily comprehended subproblems, each of which can be analyzed independently.</p>
+		  <p class="u-text u-text-3"> In this MCDM Communication Technology For 11kV Substation program, the MCDM-AHP is used  to select and prioritize the most appropriate communication technology to be used in 11kV substations for specific demographics. The selections are based on a variety of criteria including mobility, data rate, and costs (capital and operation expenditures). </p>
+		</div>
                 </div>
               </div>
               <div class="u-container-style u-layout-cell u-palette-3-light-1 u-size-25-lg u-size-25-xl u-size-28-md u-size-28-sm u-size-28-xs u-layout-cell-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0">
@@ -95,22 +98,22 @@
                     <li style="margin-left: 1.6em;">
                       <div class="u-list-icon u-text-black">
                         <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-26d7" style="font-size: 1.2em; margin: -1.2em;"><path d="m369.164062 174.769531c7.8125 7.8125 7.8125 20.476563 0 28.285157l-134.171874 134.175781c-7.8125 7.808593-20.472657 7.808593-28.285157 0l-63.871093-63.875c-7.8125-7.808594-7.8125-20.472657 0-28.28125 7.808593-7.8125 20.472656-7.8125 28.28125 0l49.730468 49.730469 120.03125-120.035157c7.8125-7.808593 20.476563-7.808593 28.285156 0zm142.835938 81.230469c0 141.503906-114.515625 256-256 256-141.503906 0-256-114.515625-256-256 0-141.503906 114.515625-256 256-256 141.503906 0 256 114.515625 256 256zm-40 0c0-119.394531-96.621094-216-216-216-119.394531 0-216 96.621094-216 216 0 119.394531 96.621094 216 216 216 119.394531 0 216-96.621094 216-216zm0 0"></path></svg>
-                      </div> Decision problems are formally structured and solved using explicit weighting of criteria and trade-offs.<br>
+                      </div>Decision problems are formally structured and solved using explicit weighting of criteria and trade-offs. 
                     </li>
                     <li style="margin-left: 1.6em;">
                       <div class="u-list-icon u-text-black">
                         <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-26d7" style="font-size: 1.2em; margin: -1.2em;"><path d="m369.164062 174.769531c7.8125 7.8125 7.8125 20.476563 0 28.285157l-134.171874 134.175781c-7.8125 7.808593-20.472657 7.808593-28.285157 0l-63.871093-63.875c-7.8125-7.808594-7.8125-20.472657 0-28.28125 7.808593-7.8125 20.472656-7.8125 28.28125 0l49.730468 49.730469 120.03125-120.035157c7.8125-7.808593 20.476563-7.808593 28.285156 0zm142.835938 81.230469c0 141.503906-114.515625 256-256 256-141.503906 0-256-114.515625-256-256 0-141.503906 114.515625-256 256-256 141.503906 0 256 114.515625 256 256zm-40 0c0-119.394531-96.621094-216-216-216-119.394531 0-216 96.621094-216 216 0 119.394531 96.621094 216 216 216 119.394531 0 216-96.621094 216-216zm0 0"></path></svg>
-                      </div> Reduces the incidence and impact of biases from decision-makers relying on intuition.
+                      </div>Reduces the incidence and impact of biases from decision-makers relying on intuition.
                     </li>
                     <li style="margin-left: 1.6em;">
                       <div class="u-list-icon u-text-black">
                         <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-26d7" style="font-size: 1.2em; margin: -1.2em;"><path d="m369.164062 174.769531c7.8125 7.8125 7.8125 20.476563 0 28.285157l-134.171874 134.175781c-7.8125 7.808593-20.472657 7.808593-28.285157 0l-63.871093-63.875c-7.8125-7.808594-7.8125-20.472657 0-28.28125 7.808593-7.8125 20.472656-7.8125 28.28125 0l49.730468 49.730469 120.03125-120.035157c7.8125-7.808593 20.476563-7.808593 28.285156 0zm142.835938 81.230469c0 141.503906-114.515625 256-256 256-141.503906 0-256-114.515625-256-256 0-141.503906 114.515625-256 256-256 141.503906 0 256 114.515625 256 256zm-40 0c0-119.394531-96.621094-216-216-216-119.394531 0-216 96.621094-216 216 0 119.394531 96.621094 216 216 216 119.394531 0 216-96.621094 216-216zm0 0"></path></svg>
-                      </div> Assists stakeholders in making transparent and consistent decisions.
+                      </div>Assists stakeholders in making transparent and consistent decisions.
                     </li>
                     <li style="margin-left: 1.6em;">
                       <div class="u-list-icon u-text-black">
                         <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-26d7" style="font-size: 1.2em; margin: -1.2em;"><path d="m369.164062 174.769531c7.8125 7.8125 7.8125 20.476563 0 28.285157l-134.171874 134.175781c-7.8125 7.808593-20.472657 7.808593-28.285157 0l-63.871093-63.875c-7.8125-7.808594-7.8125-20.472657 0-28.28125 7.808593-7.8125 20.472656-7.8125 28.28125 0l49.730468 49.730469 120.03125-120.035157c7.8125-7.808593 20.476563-7.808593 28.285156 0zm142.835938 81.230469c0 141.503906-114.515625 256-256 256-141.503906 0-256-114.515625-256-256 0-141.503906 114.515625-256 256-256 141.503906 0 256 114.515625 256 256zm-40 0c0-119.394531-96.621094-216-216-216-119.394531 0-216 96.621094-216 216 0 119.394531 96.621094 216 216 216 119.394531 0 216-96.621094 216-216zm0 0"></path></svg>
-                      </div> Facilitates stakeholder participation and provides a systematic means for their preferences to be considered.
+                      </div><div align="justify">Facilitates stakeholder participation and provides a systematic means for their preferences to be considered.</div>
                     </li>
                   </ul>
                 </div>
@@ -129,43 +132,49 @@
     <section class="u-clearfix u-palette-1-light-2 u-section-4" id="carousel_5d80">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout" style="">
-            <div class="u-layout-row" style="">
-              <div class="u-size-35-lg u-size-35-xl u-size-37-sm u-size-37-xs u-size-60-md">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-size-33-lg u-size-33-xl u-size-37-sm u-size-37-xs u-size-60-md">
                 <div class="u-layout-col">
-                  <div class="u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-20 u-layout-cell-1" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
-                    <div class="u-container-layout u-valign-middle u-container-layout-1"></div>
+                  <div class="u-container-style u-image u-layout-cell u-right-cell u-size-20 u-image-1" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-image-width="1160" data-image-height="887" data-animation-direction="">
+                    <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-1"></div>
                   </div>
-                  <div class="u-align-justify u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2">
-                    <div class="u-container-layout u-container-layout-2">
-                      <p class="u-large-text u-text u-text-variant u-text-1"> Pairwise comparisons between criteria will be made based on the&nbsp;<b>MCDM-AHP scale of importance&nbsp;</b>on a scale of&nbsp;<i>1 to 9</i>&nbsp;to establish priority amongst the criteria. The scale of importance is defined as&nbsp;<b>"1"</b>&nbsp;for&nbsp;<i>Criteria A</i>&nbsp;having equal importance to&nbsp;<i>Criteria B</i>&nbsp;and&nbsp;<b>"9"</b>&nbsp;for&nbsp;<i>Criteria A</i>&nbsp;having extreme importance over&nbsp;<i>Criteria B</i>.<br>
-                        <br>The expected final outcome of the MCDM-AHP algorithm is a ranked list of suitable communication solutions or alternatives to be used in the demographic's 11kV substations.
-                      </p>
+                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2">
+                    <div class="u-container-layout u-valign-middle u-container-layout-2">
+			<div align="justify">
+ 	    			<p class="u-large-text u-text u-text-variant u-text-2">Pairwise comparisons between criteria will be made based on the <b> MCDM-AHP scale of importance </b> on a scale of <i>1 to 9</i> to establish priority amongst the criteria. The scale of importance is defined as <b>"1"</b> for <i>Criteria A</i> having equal importance to <i>Criteria B</i> and <b>"9"</b> for <i>Criteria A</i> having extreme importance over <i>Criteria B</i>.
+<br> 
+<br>
+The expected final outcome of the MCDM-AHP algorithm is a ranked list of suitable communication solutions or alternatives to be used in the demographic's 11kV substations.
+				</p>
+		       </div> 
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="u-size-23-sm u-size-23-xs u-size-25-lg u-size-25-xl u-size-60-md" style="">
-                <div class="u-layout-col" style="">
+              <div class="u-size-23-sm u-size-23-xs u-size-27-lg u-size-27-xl u-size-60-md">
+                <div class="u-layout-col">
                   <div class="u-container-style u-layout-cell u-left-cell u-size-40 u-layout-cell-3">
-                    <div class="u-container-layout u-container-layout-3"></div>
+                    <div class="u-container-layout u-container-layout-3">
+<h2>How the program works</h2>
+<div align="justify">
+<p class="u-large-text u-text u-text-variant u-text-1">The MCDM-AHP algorithm is divided into three major categories, which are as follows:</p>
+<ol>
+  <li> <b>Goal:</b> The main objective is to find the most appropriate communication technology for 11kV substations for urban, suburban, and rural demographics, </li>
+  <li> <b>Criteria and sub-criteria:</b> The criteria (and sub-criteria) under consideration includes technical (e.g., mobility, reliability), economic (e.g., CAPEX, and OPEX), infrastructure, and service standard, and </li>
+  <li> <b>Alternatives:</b> This includes a list of the possible communication technologies to be implemented at the 11kV substations such as WiFi, Fiber Optic, 5G, and etc. </li>
+</ol> 
+</div> 
+                   </div>
                   </div>
-                  <div class="u-container-style u-layout-cell u-left-cell u-shape-rectangle u-size-20 u-layout-cell-4" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0">
-                    <div class="u-container-layout u-container-layout-4">
-                      <img class="u-image u-image-1" src="images/Ui2.png" data-image-width="602" data-image-height="265">
-                    </div>
+                  <div class="u-container-style u-image u-layout-cell u-left-cell u-size-20 u-image-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-image-width="1117" data-image-height="837">
+                    <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-4"></div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <img class="u-image u-image-2" src="images/Ui11.png" data-image-width="1164" data-image-height="617">
-        <p class="u-large-text u-text u-text-variant u-text-2">
-          <span style="font-weight: 700;"> How the program works:</span>
-          <br>
-          <br>The MCDM-AHP algorithm is divided into three major categories, which are as follows:<br><b>Goal:</b>&nbsp;The main objective is to find the most appropriate communication technology for 11kV substations for urban, suburban, and rural demographics,<br><b>Criteria and sub-criteria:</b>&nbsp;The criteria (and sub-criteria) under consideration includes technical (e.g., mobility, reliability), economic (e.g., CAPEX, and OPEX), infrastructure, and service standard, and<br><b>Alternatives:</b>&nbsp;This includes a list of the possible communication technologies to be implemented at the 11kV substations such as WiFi, Fiber Optic, 5G, and etc.
-        </p>
       </div>
     </section>
     <section class="u-clearfix u-section-5" id="carousel_a371">
@@ -175,35 +184,32 @@
             <div class="u-layout-row">
               <div class="u-size-33-lg u-size-33-xl u-size-37-sm u-size-37-xs u-size-60-md">
                 <div class="u-layout-col">
-                  <div class="u-container-style u-image u-layout-cell u-right-cell u-size-20 u-image-1" data-image-width="1836" data-image-height="882" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
-                    <div class="u-container-layout u-container-layout-1"></div>
+                  <div class="u-container-style u-image u-layout-cell u-right-cell u-size-20 u-image-1" data-image-width="1168" data-image-height="823" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
+                    <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-1"></div>
                   </div>
-                  <div class="u-align-justify u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2">
-                    <div class="u-container-layout u-container-layout-2">
-                      <p class="u-large-text u-text u-text-variant u-text-1"><b>Level 1:</b>&nbsp;pairwise comparisons of the importance between each of the criteria. For example,&nbsp;<i>“Criteria A: Technical”</i>&nbsp;is compared with&nbsp;<i>“Criteria B: Economic”</i>&nbsp;in terms of importance (select A or B) and given a scale between 1 to 9.<br>
-                        <br><b>Level 2:</b>&nbsp;pairwise comparison of the importance between the sub-criteria within each criterion. For example, under the&nbsp;<i>“technical”</i>&nbsp;criteria,&nbsp;<i>“Criteria A: Mobility”</i>&nbsp;will be evaluated against&nbsp;<i>“Criteria B: data rate”</i>&nbsp;and so on, and given a scale between 1 to 9.<br>
-                        <br><b>Level 3:</b>&nbsp;pairwise comparison between each alternative with regards to the sub-criteria. For example, NBPLC is compared with other alternatives (e.g., WiFi, 5G, Fiber Optic, and etc.) under each sub-criteria including frequency, distance, CAPEX, technology maturity and so on
-                      </p>
-                    </div>
-                  </div>
+                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2">
+                    <div class="u-container-layout u-valign-middle u-container-layout-2">
+<div align="justify"><ul>
+<li><b>Level 1:</b> pairwise comparisons of the importance between each of the criteria. For example, <i>“Criteria A: Technical”</i> is compared with <i>“Criteria B: Economic”</i> in terms of importance (select A or B) and given a scale between 1 to 9.  </li>
+<li><b>Level 2:</b> pairwise comparison of the importance between the sub-criteria within each criterion. For example, under the <i>“technical”</i> criteria, <i>“Criteria A: Mobility”</i> will be evaluated against <i>“Criteria B: data rate”</i> and so on, and given a scale between 1 to 9.</li>
+<li><b>Level 3:</b> pairwise comparison between each alternative with regards to the sub-criteria. For example, NBPLC is compared with other alternatives (e.g., WiFi, 5G, Fiber Optic, and etc.) under each sub-criteria including frequency, distance, CAPEX, technology maturity and so on.</li>
+</ul></div>
+          </div>
+          </div>
                 </div>
               </div>
               <div class="u-size-23-sm u-size-23-xs u-size-27-lg u-size-27-xl u-size-60-md">
                 <div class="u-layout-col">
-                  <div class="u-align-justify u-container-style u-layout-cell u-left-cell u-size-40 u-layout-cell-3">
-                    <div class="u-container-layout u-valign-top u-container-layout-3">
-                      <p class="u-large-text u-text u-text-variant u-text-2">
-                        <span style="font-weight: 700;">Using the UI</span>
-                        <br>
-                        <br>This website is created as a user-interface (UI) for the MCDM Communication Technology for 11kV Substation program. The default values are pre-set based on our analysis and experts' recommendations, but they can be customised as required.<br>
-                        <br>For each targetted demographic, there are three levels to be evaluated for the pairwise comparisons.
-                      </p>
-                    </div>
+                  <div class="u-container-style u-layout-cell u-left-cell u-size-40 u-layout-cell-3">
+                    <div class="u-container-layout u-container-layout-3">
+<h2>Using the UI</h2>                     
+			<div align="justify"><p class="u-large-text u-text u-text-variant u-text-1">This website is created as a user-interface (UI) for the MCDM Communication Technology for 11kV Substation program. The default values are pre-set based on our analysis and experts' recommendations, but they can be customised as required.  
+<br><br>For each targetted demographic, there are three levels to be evaluated for the pairwise comparisons.</p>    
+			</div>
+			</div>
                   </div>
-                  <div class="u-container-style u-layout-cell u-left-cell u-shape-rectangle u-size-20 u-layout-cell-4" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0">
-                    <div class="u-container-layout u-container-layout-4">
-                      <img class="u-image u-image-2" src="images/Ui41.PNG" data-image-width="1129" data-image-height="794">
-                    </div>
+                  <div class="u-container-style u-image u-layout-cell u-left-cell u-size-20 u-image-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-image-width="1117" data-image-height="837">
+                    <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-4"></div>
                   </div>
                 </div>
               </div>
@@ -217,21 +223,27 @@
         <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-row">
-              <div class="u-size-31-lg u-size-31-xl u-size-37-sm u-size-37-xs u-size-60-md">
+              <div class="u-size-33-lg u-size-33-xl u-size-37-sm u-size-37-xs u-size-60-md">
                 <div class="u-layout-col">
-                  <div class="u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-60 u-layout-cell-1" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0">
-                    <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <img class="u-image u-image-1" src="images/Ui5lama.PNG" data-image-width="312" data-image-height="372">
+                  <div class="u-container-style u-image u-layout-cell u-right-cell u-size-20 u-image-1" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-image-width="1160" data-image-height="887">
+                    <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-1"></div>
+                  </div>
+                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2">
+                    <div class="u-container-layout u-valign-middle u-container-layout-2">
+<div align="justify"><p class="u-large-text u-text u-text-variant u-text-2"> Hello</p> </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="u-size-23-sm u-size-23-xs u-size-29-lg u-size-29-xl u-size-60-md">
+              <div class="u-size-23-sm u-size-23-xs u-size-27-lg u-size-27-xl u-size-60-md">
                 <div class="u-layout-col">
-                  <div class="u-container-style u-layout-cell u-left-cell u-size-60 u-layout-cell-2">
-                    <div class="u-container-layout u-container-layout-2">
-                      <p class="u-large-text u-text u-text-variant u-text-1"> Once the pairwise comparison values are entered into the system, the MCDM Communication Technology for 11kV Substation program will generate a ranked list of the most suitable communication technologies for 11kV substations based on the criteria provided. The default value from the list will be accompanied with a discussion in the report</p>
+                  <div class="u-container-style u-layout-cell u-left-cell u-size-40 u-layout-cell-3">
+                    <div class="u-container-layout u-container-layout-3">
+                      <div align="justify"><p class="u-large-text u-text u-text-variant u-text-2">Once the pairwise comparison values are entered into the system, the MCDM Communication Technology for 11kV Substation program will generate a ranked list of the most suitable communication technologies for 11kV substations based on the criteria provided. The list will be accompanied with a short discussion on the generated  results. </p> </div>
                     </div>
+                  </div>
+                  <div class="u-container-style u-image u-layout-cell u-left-cell u-size-20 u-image-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-image-width="1117" data-image-height="837">
+                    <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-4"></div>
                   </div>
                 </div>
               </div>
