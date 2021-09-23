@@ -13230,9 +13230,18 @@ a61 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','U
 a62 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
 
 
+# combine <- data.frame(
+#
+#     selection = (c(  b1,
+#                      b2,
+#                      b3,
+#                      b4,
+#                      b5,
+#                      b6)),
+#
+#     stringsAsFactors = FALSE)
 
-
-
+    ###################c run app ###################
 
 # Run the application
 shinyApp(ui = ui, server = server)
