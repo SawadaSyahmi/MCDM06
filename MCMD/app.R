@@ -16,7 +16,12 @@ library(data.table)
 
 # Define UI for application that draws a histogram
 ui <-  htmlTemplate(
-    filename = "www/index.html")
+    filename = "www/index.html"
+    ,select = checkboxGroupInput("SU25app", "SU25 Application:",
+                          c("Cylinders" = "cyl",
+                            "Transmission" = "am",
+                            "Gears" = "gear"))
+    )
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
