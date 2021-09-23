@@ -13156,5 +13156,12 @@ server <- function(input, output) {
     })
 }
 
+
+    ###################c SU25 comm tech ###################
+
+
+a1 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE', 'UHF','5G')
+
+
 # Run the application
 shinyApp(ui = ui, server = server)
