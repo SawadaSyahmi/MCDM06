@@ -18,9 +18,45 @@ library(data.table)
 ui <-  htmlTemplate(
     filename = "www/index.html"
     ,select = checkboxGroupInput("SU25app", "SU25 Application:",
-                          c("Cylinders" = "cyl",
-                            "Transmission" = "am",
-                            "Gears" = "gear"))
+                          c("New asset types configuration (DER, EV, Batteries)" = "a1",
+                            "Predictive maintenance for critical assets, DER forecasting" = "a2",
+                            "Emerging technologies based asset analytics – IoT, Drone, LiDAR, image analytics, Digital twin" = "a3",
+                            "Develop IOT based Asset Analytics Solution" = "a4",
+                            "Drone based Asset inspection PoC" = "a5",
+                            "Talk to your Asset initiative PoC" = "a6",
+                            "Dynamic Line Rating PoC" = "a7",
+                            "Advanced Load Forecasting Solution" = "a8",
+                            "Active distribution network control PoC" = "a9",
+                            "Extend digital work process to contractors" = "a10",
+                            "Enhance interfaces to manage and monitor contractors and suppliers" = "a11",
+                            "Work from anywhere" = "a12",
+                            "IoT Integration, drones based inspections" = "a13",
+                            "Digital work permits and approvals" = "a14",
+                            "Develop Smart Meter Operations Centre (SMOC)" = "a15",
+                            "Smart Meter penetration" = "a16",
+                            "Integration with Electric Vehicle & Solar Panels" = "a17",
+                            "Demand Response initiative PoC" = "a18",
+                            "Distributed Generation" = "a19",
+                            "Distributed Storage" = "a20",
+                            "Electric Vehicle" = "a21",
+                            "Transmission" = "a22",
+                            "Flexible demand" = "a23",
+                            "DER aggregation and VPP platforms RI: DER aggregation and VPP monitoring platform PoC" = "a24",
+                            "Capacity services" = "a25",
+                            "Peak Management" = "a26",
+                            "Load balancing services" = "a27",
+                            "EV services RI: Vehicle to Grid PoC" = "a28",
+                            "RE monitoring and control systems implementation" = "a29",
+                            "Grid scale ESS infrastructure implementation PoC" = "a30",
+                            "ESS hotspot analysis on Distribution Network" = "a31",
+                            "ESS connections monitoring and control framework and skill development" = "a32",
+                            "ESS monitoring and control systems implementation (DERMS)" = "a33",
+                            "EV infrastructure installation and integration PoC" = "a34",
+                            "EV monitoring and control systems implementation (DERMS)" = "a35",
+                            "EV connections. Monitoring and control ecosystem and skill development" = "a36",
+                            "P2P trading platform PoC" = "a37",
+                            "Implement NTL PoC" = "a38"
+                            ))
     )
 
 # Define server logic required to draw a histogram

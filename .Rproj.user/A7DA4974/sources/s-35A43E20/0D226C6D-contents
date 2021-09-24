@@ -18,9 +18,45 @@ library(data.table)
 ui <-  htmlTemplate(
     filename = "www/index.html"
     ,select = checkboxGroupInput("SU25app", "SU25 Application:",
-                          c("Cylinders" = "cyl",
-                            "Transmission" = "am",
-                            "Gears" = "gear"))
+                          c("New asset types configuration (DER, EV, Batteries)" = "a1",
+                            "Predictive maintenance for critical assets, DER forecasting" = "a2",
+                            "Emerging technologies based asset analytics – IoT, Drone, LiDAR, image analytics, Digital twin" = "a3",
+                            "Develop IOT based Asset Analytics Solution" = "a4",
+                            "Drone based Asset inspection PoC" = "a5",
+                            "Talk to your Asset initiative PoC" = "a6",
+                            "Dynamic Line Rating PoC" = "a7",
+                            "Advanced Load Forecasting Solution" = "a8",
+                            "Active distribution network control PoC" = "a9",
+                            "Extend digital work process to contractors" = "a10",
+                            "Enhance interfaces to manage and monitor contractors and suppliers" = "a11",
+                            "Work from anywhere" = "a12",
+                            "IoT Integration, drones based inspections" = "a13",
+                            "Digital work permits and approvals" = "a14",
+                            "Develop Smart Meter Operations Centre (SMOC)" = "a15",
+                            "Smart Meter penetration" = "a16",
+                            "Integration with Electric Vehicle & Solar Panels" = "a17",
+                            "Demand Response initiative PoC" = "a18",
+                            "Distributed Generation" = "a19",
+                            "Distributed Storage" = "a20",
+                            "Electric Vehicle" = "a21",
+                            "Transmission" = "a22",
+                            "Flexible demand" = "a23",
+                            "DER aggregation and VPP platforms RI: DER aggregation and VPP monitoring platform PoC" = "a24",
+                            "Capacity services" = "a25",
+                            "Peak Management" = "a26",
+                            "Load balancing services" = "a27",
+                            "EV services RI: Vehicle to Grid PoC" = "a28",
+                            "RE monitoring and control systems implementation" = "a29",
+                            "Grid scale ESS infrastructure implementation PoC" = "a30",
+                            "ESS hotspot analysis on Distribution Network" = "a31",
+                            "ESS connections monitoring and control framework and skill development" = "a32",
+                            "ESS monitoring and control systems implementation (DERMS)" = "a33",
+                            "EV infrastructure installation and integration PoC" = "a34",
+                            "EV monitoring and control systems implementation (DERMS)" = "a35",
+                            "EV connections. Monitoring and control ecosystem and skill development" = "a36",
+                            "P2P trading platform PoC" = "a37",
+                            "Implement NTL PoC" = "a38"
+                            ))
     )
 
 # Define server logic required to draw a histogram
@@ -13165,74 +13201,48 @@ server <- function(input, output) {
     ###################c SU25 comm tech ###################
 
 
-a1 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a2 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a3 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a4 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a5 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a6 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a7 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a8 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a9 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
+a1 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a2 <- c('5G')
+a3 <- c('5G')
+a4 <- c('5G')
+a5 <- c('Fiber','WiFi',	'4G','Pri. LTE','5G')
+a6 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
+a7 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
+a8 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
+a9 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
 
-a10 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a11 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a12 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a13 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a14 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a15 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a16 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a17 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a18 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a19 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
+a10 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
+a11 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
+a12 <- c('5G')
+a13 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
+a14 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
+a15 <- c('NBPLC','Fiber','WiFi' ,	'4G','Pri. LTE','5G')
+a16 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
+a17 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a18 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','5G')
 
-a20 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a21 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a22 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a23 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a24 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a25 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a26 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a27 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a28 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a29 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
+a19 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a20 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a21 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a22 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','5G')
+a23 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a24 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a25 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
 
-a30 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a31 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a32 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a33 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a34 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a35 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a36 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a37 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a38 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a39 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
+a26 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a27 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a28 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a29 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a30 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a31 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a32 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a33 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a34 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a35 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
 
-a40 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a41 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a42 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a43 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a44 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a45 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a46 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a47 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a48 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a49 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-
-a50 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a51 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a52 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a53 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a54 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a55 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a56 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a57 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a58 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a59 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-
-a60 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a61 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
-a62 <- c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM')
+a36 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+a37 <- c('5G')
+a38 <- c('5G')
 
 
 # combine <- data.frame(
