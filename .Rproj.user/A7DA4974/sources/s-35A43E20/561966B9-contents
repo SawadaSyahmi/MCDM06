@@ -9220,9 +9220,11 @@
               <div class="u-size-60">
                 <div class="u-layout-row">
                   <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-size-60 u-layout-cell-1">
-                    <div class="u-container-layout u-container-layout-1">
+                    <div class="u-container-layout u-container-layout-1 ">
                       <h6 class="u-custom-font u-text u-text-font u-text-2">SU25 Application</h6>
+                      <div style="text-align:left">
                       {{ select }}
+                      </div>
                     </div>
               </div>
             </div>
