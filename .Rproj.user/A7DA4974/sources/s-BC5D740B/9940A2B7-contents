@@ -1,9 +1,20 @@
 
 a1 <- data.frame(Tech = c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh','4G','Pri. LTE','NB-IoT','UHF','LoRa'))
 a2 <- data.frame(Tech = c('NBPLC','Fiber','ZigBee','4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM'))
-combine <- merge(a1,a2)
+tc <- data.frame(Tech = c())
+combine <- merge(a1,tc)
+
+datalist<- list(a1,a2,tc)
+datalist[!apply(datalist == "", 1, all),]
+datalist[2] <- NULL
 
 
+notem <- c(a1,a2,tc)
+notem[2]
+length(notem)
+full_dplyr  <- notem %>% full_join(notem,  by = mergeCols)
+combine <- merge(notem[1],notem[2])
+data_list <- list(notem)
 
 a3 <- data.frame(Tech = c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM'))
 a4 <- data.frame(Tech = c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri. LTE','NB-IoT','UHF','LoRa','5G','SATCOM'))
