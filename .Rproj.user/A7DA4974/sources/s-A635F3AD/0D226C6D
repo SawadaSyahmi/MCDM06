@@ -3,7 +3,7 @@
     "path": "C:/Users/FARIS SYAHMI/Desktop/Kerja/MCDM06/MCMD/app.R",
     "project_path": "MCMD/app.R",
     "type": "r_source",
-    "hash": "334639902",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1632377353006.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "57,46",
-        "scrollLine": "33"
+        "cursorPosition": "13248,30",
+        "scrollLine": "13215"
     },
-    "folds": "",
-    "lastKnownWriteTime": 1632489337,
+    "folds": "3868|39|8515|0|\n8516|36|13170|0|\n",
+    "lastKnownWriteTime": 1632567846,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1632489337360,
+    "last_content_update": 1632567846518,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -13245,6 +13245,20 @@ a37 <- c('5G')
 a38 <- c('5G')
 
 
+SU25 <- eventReactive(input$btnSU25,{
+    combineTech<- merge(select)
+    })
+
+observeEvent(input$btnSU25,{
+    output$tabledata3 <- renderPrint({
+        outSU25<- SU25()
+        print(outSU25)
+        #out
+    })
+})
+
+
+
 # combine <- data.frame(
 #
 #     selection = (c(  b1,

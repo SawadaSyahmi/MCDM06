@@ -3,7 +3,7 @@
     "path": "C:/Users/FARIS SYAHMI/Desktop/Kerja/MCDM06/MCMD/www/index.html",
     "project_path": "MCMD/www/index.html",
     "type": "html",
-    "hash": "645917595",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1632406600680.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9227,26",
-        "scrollLine": "9206"
+        "cursorPosition": "9248,44",
+        "scrollLine": "9201"
     },
     "folds": "",
-    "lastKnownWriteTime": 1632489778,
+    "lastKnownWriteTime": 1632490308,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1632489778595,
+    "last_content_update": 1632490308848,
     "read_only": false,
     "read_only_alternatives": []
 }

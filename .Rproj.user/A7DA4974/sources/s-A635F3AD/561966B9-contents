@@ -9224,6 +9224,7 @@
                       <h6 class="u-custom-font u-text u-text-font u-text-2">SU25 Application</h6>
                       <div style="text-align:left">
                       {{ select }}
+                      <button type="button" id="btnSU25" value="submit" class="shiny-bound-input action-button u-btn u-btn-submit u-button-style ">Submit</button>
                       </div>
                     </div>
               </div>
