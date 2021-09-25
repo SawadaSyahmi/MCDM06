@@ -16,8 +16,8 @@ library(data.table)
 
 # Define UI for application that draws a histogram
 ui <-  htmlTemplate(
-    filename = "www/index.html"
-    ,select = checkboxGroupInput("SU25app", "SU25 Application:",
+    filename = "www/index.html",
+    selectTech = checkboxGroupInput("SU25app", "SU25 Application:",
                           c("New asset types configuration (DER, EV, Batteries)" = "a1",
                             "Predictive maintenance for critical assets, DER forecasting" = "a2",
                             "Emerging technologies based asset analytics – IoT, Drone, LiDAR, image analytics, Digital twin" = "a3",
@@ -13195,67 +13195,98 @@ server <- function(input, output) {
             #out
         })
     })
-}
+
+
 
 
     ###################c SU25 comm tech ###################
 
 
-a1 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a2 <- c('5G')
-a3 <- c('5G')
-a4 <- c('5G')
-a5 <- c('Fiber','WiFi',	'4G','Pri. LTE','5G')
-a6 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
-a7 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
-a8 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
-a9 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
+    SU25 <- eventReactive(input$btnSU25,{
 
-a10 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
-a11 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
-a12 <- c('5G')
-a13 <- c('Fiber','WiFi' ,	'4G','Pri. LTE','5G')
-a14 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
-a15 <- c('NBPLC','Fiber','WiFi' ,	'4G','Pri. LTE','5G')
-a16 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM')
-a17 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a18 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','5G')
+        a1 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a2 <- data.frame(Tech = c('5G'))
+        a3 <- data.frame(Tech = c('5G'))
+        a4 <- data.frame(Tech = c('5G'))
+        a5 <- data.frame(Tech = c('Fiber','WiFi',	'4G','Pri. LTE','5G'))
+        a6 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM'))
+        a7 <- data.frame(Tech = c('Fiber','WiFi' ,	'4G','Pri. LTE','5G'))
+        a8 <- data.frame(Tech = c('Fiber','WiFi' ,	'4G','Pri. LTE','5G'))
+        a9 <- data.frame(Tech = c('Fiber','WiFi' ,	'4G','Pri. LTE','5G'))
 
-a19 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a20 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a21 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a22 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','5G')
-a23 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a24 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a25 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+        a10 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM'))
+        a11 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM'))
+        a12 <- data.frame(Tech = c('5G'))
+        a13 <- data.frame(Tech = c('Fiber','WiFi' ,	'4G','Pri. LTE','5G'))
+        a14 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM'))
+        a15 <- data.frame(Tech = c('NBPLC','Fiber','WiFi' ,	'4G','Pri. LTE','5G'))
+        a16 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G','SATCOM'))
+        a17 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a18 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','5G'))
 
-a26 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a27 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a28 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a29 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a30 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a31 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a32 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a33 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a34 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a35 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
+        a19 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a20 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a21 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a22 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','5G'))
+        a23 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a24 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a25 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
 
-a36 <- c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G')
-a37 <- c('5G')
-a38 <- c('5G')
+        a26 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a27 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a28 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a29 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a30 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a31 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a32 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a33 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a34 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a35 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+
+        a36 <- data.frame(Tech = c('NBPLC','Fiber','WiFi','RF-Mesh' ,	'4G','Pri. LTE','UHF','5G'))
+        a37 <- data.frame(Tech = c('5G'))
+        a38 <- data.frame(Tech = c('5G'))
 
 
-SU25 <- eventReactive(input$btnSU25,{
-    combineTech<- merge(select)
+
+        combineTechNT<- input$SU25app
+        test<-data.frame(combineTechNT)
+        t1<-c()
+        t2<-c()
+        t3<-c()
+        t4<-c()
+        t5<-c()
+        t6<-c()
+        t7<-c()
+        t8<-c()
+        t9<-c()
+        t10<-c()
+        for(i in length(combineTechNT)){
+
+           if(test[i,1] == "a1"){t1 <- a1}
+           if(test[i,1] == "a2"){t2 <- a2}
+        }
+        # combineSU25 <- merge(t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,
+        #                      t11,t12,t13,t14,t15,t16,t17,t18,t19,t20,
+        #                      t21,t22,t23,t24,t25,t26,t27,t28,t29,t30,
+        #                      t31,t32,t33,t34,t35,t36,t37,t38)
+
+        combine <- merge(a1,a2)
+        combine
+
+
     })
 
-observeEvent(input$btnSU25,{
-    output$tabledata3 <- renderPrint({
-        outSU25<- SU25()
-        print(outSU25)
-        #out
+    observeEvent(input$btnSU25,{
+        output$tabledata3 <- renderPrint({
+            outSU25<- SU25()
+            print(outSU25)
+            #out
+        })
     })
-})
+
+}
+
 
 
 

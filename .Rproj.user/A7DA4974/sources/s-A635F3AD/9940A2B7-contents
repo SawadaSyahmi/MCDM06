@@ -75,6 +75,57 @@ a62 <- data.frame(Tech = c('NBPLC','Fiber','ZigBee','WiFi','RF-Mesh' ,	'4G','Pri
 
 
 
+assign("a1", a1)
+assign("a2", a2)
+assign("a3", a3)
+assign("a4", a4)
+assign("a5", a5)
+assign("a6", a6)
+assign("a7", a7)
+assign("a8", a8)
+assign("a9", a9)
 
+assign("a10", a10)
+assign("a11", a11)
+assign("a12", a12)
+assign("a13", a13)
+assign("a14", a14)
+assign("a15", a15)
+assign("a16", a16)
+assign("a17", a17)
+assign("a18", a18)
+
+assign("a19", a19)
+assign("a20", a20)
+assign("a21", a21)
+assign("a22", a22)
+assign("a23", a23)
+assign("a24", a24)
+assign("a25", a25)
+assign("a26", a26)
+assign("a27", a27)
+assign("a28", a28)
+assign("a29", a29)
+assign("a30", a30)
+assign("a31", a31)
+assign("a32", a32)
+assign("a33", a33)
+assign("a34", a34)
+assign("a35", a35)
+
+assign("a36", a36)
+assign("a37", a37)
+assign("a38", a38)
+
+
+assign("a1", a1)
+assign("a2", a2)
+assign("a3", a3)
+assign("a4", a4)
+assign("a5", a5)
+assign("a6", a6)
+assign("a7", a7)
+assign("a8", a8)
+assign("a9", a9)
 
 
