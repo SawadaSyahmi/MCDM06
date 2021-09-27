@@ -1156,8 +1156,8 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl349" name="imalvl349"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl349" name="alvl349" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl349" name="imalvl349"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl349" name="alvl349" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
