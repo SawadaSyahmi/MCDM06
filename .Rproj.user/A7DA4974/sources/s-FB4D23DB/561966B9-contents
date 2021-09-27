@@ -371,13 +371,13 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Security</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Vulnerability</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl232" name="imalvl232"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl232" name="alvl232" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
                                             <tr style="height: 27px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Maintenance</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Security</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Vulnerability</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl233" name="imalvl233"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl233" name="alvl233" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
@@ -423,7 +423,7 @@
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl244" name="imalvl244"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl244" name="alvl244" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
@@ -441,7 +441,7 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl247" name="imalvl247"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl247" name="alvl247" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
@@ -453,13 +453,13 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl249" name="imalvl249"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl249" name="alvl249" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Data Rate</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl2410" name="imalvl2410"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl2410" name="alvl2410" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
@@ -486,7 +486,7 @@
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-13" id="link-tab-fbdc" href="#tab-fbdc" role="tab" aria-controls="tab-fbdc" aria-selected="false">Distance</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-14" role="presentation">
-                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-14" id="link-tab-e0ef" href="#tab-e0ef" role="tab" aria-controls="tab-e0ef" aria-selected="false">Reliability</a>
+                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-14" id="link-tab-e0ef" href="#tab-e0ef" role="tab" aria-controls="tab-e0ef" aria-selected="false">Line of Sight</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-15" role="presentation">
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-15" id="link-tab-c4f1" href="#tab-c4f1" role="tab" aria-controls="tab-c4f1" aria-selected="false">Scalability</a>
@@ -498,7 +498,7 @@
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-17" id="link-tab-f962" href="#tab-f962" role="tab" aria-controls="tab-f962" aria-selected="false">Maintenance Complexity</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-18" role="presentation">
-                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-18" id="link-tab-35ea" href="#tab-35ea" role="tab" aria-controls="tab-35ea" aria-selected="false">Security</a>
+                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-18" id="link-tab-35ea" href="#tab-35ea" role="tab" aria-controls="tab-35ea" aria-selected="false">Vulnerability</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-19" role="presentation">
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-19" id="link-tab-615b" href="#tab-615b" role="tab" aria-controls="tab-615b" aria-selected="false">Infrastructure</a>
@@ -733,7 +733,7 @@
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optics</td>
                                               <td class="u-table-cell"><select  id="imalvl322" name="imalvl322"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl322" name="alvl322" rows="1" cols="5" placeholder="1"> 7 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl322" name="alvl322" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
@@ -924,19 +924,19 @@
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optic</td>
                                               <td class="u-table-cell"><select  id="imalvl332" name="imalvl332"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl332" name="alvl332" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl332" name="alvl332" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Zigbee</td>
                                               <td class="u-table-cell"><select  id="imalvl333" name="imalvl333"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl333" name="alvl333" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl333" name="alvl333" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-table-cell"><select  id="imalvl334" name="imalvl334"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl334" name="alvl334" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl334" name="alvl334" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
@@ -1109,49 +1109,49 @@
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">NBPLC</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">5G</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl341" name="imalvl341"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl341" name="alvl341" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl341" name="alvl341" rows="1" cols="5" placeholder="1"> 8 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optics</td>
-                                              <td class="u-table-cell"><select  id="imalvl342" name="imalvl342"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl342" name="alvl342" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-table-cell"><select  id="imalvl342" name="imalvl342"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-table-cell"><textarea id="alvl342" name="alvl342" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Zigbee</td>
                                               <td class="u-table-cell"><select  id="imalvl343" name="imalvl343"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl343" name="alvl343" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl343" name="alvl343" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-table-cell"><select  id="imalvl344" name="imalvl344"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl344" name="alvl344" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl344" name="alvl344" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">4G</td>
                                               <td class="u-table-cell"><select  id="imalvl345" name="imalvl345"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl345" name="alvl345" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl345" name="alvl345" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl346" name="imalvl346"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl346" name="alvl346" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl346" name="alvl346" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">LoRA</td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl347" name="imalvl347"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl347" name="alvl347" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl347" name="alvl347" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">5G</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Fiber Optics</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl348" name="imalvl348"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl348" name="alvl348" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl348" name="alvl348" rows="1" cols="5" placeholder="1"> 8 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -1162,62 +1162,62 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3410" name="imalvl3410"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3410" name="imalvl3410"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3410" name="alvl3410" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">4G</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3411" name="imalvl3411"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3411" name="alvl3411" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3411" name="imalvl3411"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3411" name="alvl3411" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3412" name="imalvl3412"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3412" name="alvl3412" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3412" name="imalvl3412"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3412" name="alvl3412" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3413" name="imalvl3413"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3413" name="alvl3413" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3413" name="imalvl3413"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3413" name="alvl3413" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Fiber Optics</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3414" name="imalvl3414"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3414" name="alvl3414" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3414" name="alvl3414" rows="1" cols="5" placeholder="1"> 7 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3415" name="imalvl3415"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3415" name="alvl3415" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3415" name="alvl3415" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">4G</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3416" name="imalvl3416"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3416" name="alvl3416" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3416" name="alvl3416" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3417" name="imalvl3417"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3417" name="alvl3417" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3417" name="alvl3417" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">LoRA</td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3418" name="imalvl3418"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3418" name="alvl3418" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3418" name="alvl3418" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3419" name="imalvl3419"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3419" name="alvl3419" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3419" name="imalvl3419"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3419" name="alvl3419" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -1229,13 +1229,13 @@
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl3421" name="imalvl3421"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3421" name="alvl3421" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl3421" name="alvl3421" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3422" name="imalvl3422"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3422" name="alvl3422" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3422" name="imalvl3422"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3422" name="alvl3422" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
@@ -1252,8 +1252,8 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3425" name="imalvl3425"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3425" name="alvl3425" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3425" name="imalvl3425"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3425" name="alvl3425" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">4G</td>
@@ -1264,14 +1264,14 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3427" name="imalvl3427"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3427" name="alvl3427" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3427" name="imalvl3427"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3427" name="alvl3427" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3428" name="imalvl3428"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3428" name="alvl3428" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imalvl3428" name="imalvl3428"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="alvl3428" name="alvl3428" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
 
                                           </tbody>
@@ -1318,7 +1318,7 @@
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-table-cell"><select  id="imalvl354" name="imalvl354"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl354" name="alvl354" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl354" name="alvl354" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
@@ -1492,13 +1492,13 @@
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">NBPLC</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">5G</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl361" name="imalvl361"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl361" name="alvl361" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl361" name="alvl361" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optics</td>
                                               <td class="u-table-cell"><select  id="imalvl362" name="imalvl362"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl362" name="alvl362" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl362" name="alvl362" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
@@ -1874,7 +1874,7 @@
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">NBPLC</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">5G</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl381" name="imalvl381"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl381" name="alvl381" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl381" name="alvl381" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
@@ -1886,13 +1886,13 @@
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Zigbee</td>
                                               <td class="u-table-cell"><select  id="imalvl383" name="imalvl383"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl383" name="alvl383" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl383" name="alvl383" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-table-cell"><select  id="imalvl384" name="imalvl384"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="alvl384" name="alvl384" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="alvl384" name="alvl384" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
@@ -2991,13 +2991,13 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Security</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Vulnerability</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl232" name="imblvl232"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl232" name="blvl232" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
                                             <tr style="height: 27px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Maintenance</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Security</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Vulnerability</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl233" name="imblvl233"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl233" name="blvl233" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
@@ -3043,7 +3043,7 @@
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl244" name="imblvl244"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl244" name="blvl244" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
@@ -3061,7 +3061,7 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl247" name="imblvl247"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl247" name="blvl247" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
@@ -3073,13 +3073,13 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl249" name="imblvl249"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl249" name="blvl249" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Data Rate</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl2410" name="imblvl2410"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl2410" name="blvl2410" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
@@ -3106,7 +3106,7 @@
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-32" id="link-tab-7128" href="#tab-7128" role="tab" aria-controls="tab-7128" aria-selected="false">Distance</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-33" role="presentation">
-                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-33" id="link-tab-a591" href="#tab-a591" role="tab" aria-controls="tab-a591" aria-selected="false">Reliability</a>
+                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-33" id="link-tab-a591" href="#tab-a591" role="tab" aria-controls="tab-a591" aria-selected="false">Line of Sight</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-34" role="presentation">
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-34" id="link-tab-b72c" href="#tab-b72c" role="tab" aria-controls="tab-b72c" aria-selected="false">Scalability</a>
@@ -3118,7 +3118,7 @@
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-36" id="link-tab-a811" href="#tab-a811" role="tab" aria-controls="tab-a811" aria-selected="false">Maintenance Complexity</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-37" role="presentation">
-                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-37" id="link-tab-755a" href="#tab-755a" role="tab" aria-controls="tab-755a" aria-selected="false">Security</a>
+                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-37" id="link-tab-755a" href="#tab-755a" role="tab" aria-controls="tab-755a" aria-selected="false">Vulnerability</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-38" role="presentation">
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-38" id="link-tab-ba4a" href="#tab-ba4a" role="tab" aria-controls="tab-ba4a" aria-selected="false">Infrastructure</a>
@@ -3400,7 +3400,7 @@
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optics</td>
                                               <td class="u-table-cell"><select  id="imblvl322" name="imblvl322"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl322" name="blvl322" rows="1" cols="5" placeholder="1"> 7 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="blvl322" name="blvl322" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
@@ -3638,13 +3638,13 @@
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optics</td>
                                               <td class="u-table-cell"><select  id="imblvl332" name="imblvl332"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl332" name="blvl332" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="blvl332" name="blvl332" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Zigbee</td>
                                               <td class="u-table-cell"><select  id="imblvl333" name="imblvl333"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl333" name="blvl333" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="blvl333" name="blvl333" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
@@ -3875,32 +3875,32 @@
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optics</td>
-                                              <td class="u-table-cell"><select  id="imblvl342" name="imblvl342"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl342" name="blvl342" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-table-cell"><select  id="imblvl342" name="imblvl342"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-table-cell"><textarea id="blvl342" name="blvl342" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Zigbee</td>
                                               <td class="u-table-cell"><select  id="imblvl343" name="imblvl343"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl343" name="blvl343" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="blvl343" name="blvl343" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-table-cell"><select  id="imblvl344" name="imblvl344"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl344" name="blvl344" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="blvl344" name="blvl344" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">4G</td>
                                               <td class="u-table-cell"><select  id="imblvl345" name="imblvl345"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl345" name="blvl345" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="blvl345" name="blvl345" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-table-cell"><select  id="imblvl346" name="imblvl346"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-table-cell"><textarea id="blvl346" name="blvl346" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><textarea id="blvl346" name="blvl346" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -3912,37 +3912,37 @@
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl348" name="imblvl348"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl348" name="blvl348" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl348" name="blvl348" rows="1" cols="5" placeholder="1"> 7 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">UHF</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Fiber Optics</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl349" name="imblvl349"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl349" name="blvl349" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl349" name="blvl349" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3410" name="imblvl3410"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3410" name="blvl3410" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3410" name="blvl3410" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3411" name="imblvl3411"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3411" name="blvl3411" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3411" name="blvl3411" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">4G</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3412" name="imblvl3412"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3412" name="blvl3412" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3412" name="imblvl3412"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3412" name="blvl3412" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3413" name="imblvl3413"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3413" name="blvl3413" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3413" name="imblvl3413"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3413" name="blvl3413" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -3953,14 +3953,14 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3415" name="imblvl3415"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3415" name="blvl3415" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3415" name="imblvl3415"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3415" name="blvl3415" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Fiber Optics</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3416" name="imblvl3416"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3416" name="blvl3416" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3416" name="blvl3416" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -3972,31 +3972,31 @@
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">4G</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3418" name="imblvl3418"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3418" name="blvl3418" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3418" name="blvl3418" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3419" name="imblvl3419"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3419" name="blvl3419" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3419" name="blvl3419" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3420" name="imblvl3420"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3420" name="blvl3420" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3420" name="blvl3420" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl341a" name="imblvl341a"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl341a" name="blvl341a" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl341a" name="blvl341a" rows="1" cols="5" placeholder="1"> 7 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3421" name="imblvl3421"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3421" name="blvl3421" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3421" name="imblvl3421"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3421" name="blvl3421" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -4013,13 +4013,13 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3424" name="imblvl3424"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3424" name="blvl3424" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3424" name="imblvl3424"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3424" name="blvl3424" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3425" name="imblvl3425"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3425" name="imblvl3425"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3425" name="blvl3425" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
@@ -4037,13 +4037,13 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3428" name="imblvl3428"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3428" name="blvl3428" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3428" name="imblvl3428"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3428" name="blvl3428" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3429" name="imblvl3429"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3429" name="imblvl3429"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3429" name="blvl3429" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
@@ -4055,32 +4055,32 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3431" name="imblvl3431"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3431" name="blvl3431" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3431" name="imblvl3431"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3431" name="blvl3431" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3432" name="imblvl3432"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3432" name="blvl3432" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3432" name="imblvl3432"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3432" name="blvl3432" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3433" name="imblvl3433"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3433" name="blvl3433" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imblvl3433" name="imblvl3433"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="blvl3433" name="blvl3433" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3434" name="imblvl3434"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3434" name="blvl3434" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3434" name="imblvl3434"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3434" name="blvl3434" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">LoRA</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3435" name="imblvl3435"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3435" name="blvl3435" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imblvl3435" name="imblvl3435"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="blvl3435" name="blvl3435" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                           </tbody>
                                         </table>
@@ -6176,13 +6176,13 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Security</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Vulnerability</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl232" name="imclvl232"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl232" name="clvl232" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
                                             <tr style="height: 27px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Maintenance</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Security</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Vulnerability</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl233" name="imclvl233"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl233" name="clvl233" rows="1" cols="5" placeholder="1"> 9 </textarea></td>
                                             </tr>
@@ -6228,7 +6228,7 @@
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl244" name="imclvl244"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl244" name="clvl244" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
@@ -6246,7 +6246,7 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl247" name="imclvl247"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl247" name="clvl247" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
@@ -6258,13 +6258,13 @@
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl249" name="imclvl249"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl249" name="clvl249" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Data Rate</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Reliability</td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">Line of Sight</td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl2410" name="imclvl2410"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl2410" name="clvl2410" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
@@ -6291,7 +6291,7 @@
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-51" id="link-tab-f7d9" href="#tab-f7d9" role="tab" aria-controls="tab-f7d9" aria-selected="false">Distance</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-52" role="presentation">
-                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-52" id="link-tab-4890" href="#tab-4890" role="tab" aria-controls="tab-4890" aria-selected="false">Reliability</a>
+                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-52" id="link-tab-4890" href="#tab-4890" role="tab" aria-controls="tab-4890" aria-selected="false">Line of Sight</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-53" role="presentation">
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-53" id="link-tab-55b8" href="#tab-55b8" role="tab" aria-controls="tab-55b8" aria-selected="false">Scalability</a>
@@ -6303,7 +6303,7 @@
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-55" id="link-tab-2960" href="#tab-2960" role="tab" aria-controls="tab-2960" aria-selected="false">Maintenance Complexity</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-56" role="presentation">
-                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-56" id="link-tab-ea41" href="#tab-ea41" role="tab" aria-controls="tab-ea41" aria-selected="false">Security</a>
+                                    <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-56" id="link-tab-ea41" href="#tab-ea41" role="tab" aria-controls="tab-ea41" aria-selected="false">Vulnerability</a>
                                   </li>
                                   <li class="u-tab-item u-tab-item-57" role="presentation">
                                     <a class="u-active-white u-button-style u-hover-palette-2-light-2 u-palette-1-light-2 u-tab-link u-tab-link-57" id="link-tab-1c33" href="#tab-1c33" role="tab" aria-controls="tab-1c33" aria-selected="false">Infrastructure</a>
@@ -7053,68 +7053,68 @@
                                            <tr style="height: 58px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">NBPLC</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">UHF</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl341" name="imclvl341"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl341" name="imclvl341"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl341" name="clvl341" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Fiber Optics</td>
-                                              <td class="u-table-cell"><select  id="imclvl342" name="imclvl342"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="clvl342" name="clvl342" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><select  id="imclvl342" name="imclvl342"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-table-cell"><textarea id="clvl342" name="clvl342" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
                                             <tr style="height: 58px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Zigbee</td>
-                                              <td class="u-table-cell"><select  id="imclvl343" name="imclvl343"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="clvl343" name="clvl343" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><select  id="imclvl343" name="imclvl343"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-table-cell"><textarea id="clvl343" name="clvl343" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">WIFI/RF Mesh</td>
-                                              <td class="u-table-cell"><select  id="imclvl344" name="imclvl344"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="clvl344" name="clvl344" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><select  id="imclvl344" name="imclvl344"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-table-cell"><textarea id="clvl344" name="clvl344" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 59px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">4G</td>
-                                              <td class="u-table-cell"><select  id="imclvl345" name="imclvl345"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="clvl345" name="clvl345" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><select  id="imclvl345" name="imclvl345"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-table-cell"><textarea id="clvl345" name="clvl345" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-table-cell"></td>
                                               <td class="u-table-cell">Private LTE / NB- IoT</td>
-                                              <td class="u-table-cell"><select  id="imclvl346" name="imclvl346"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-table-cell"><textarea id="clvl346" name="clvl346" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-table-cell"><select  id="imclvl346" name="imclvl346"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-table-cell"><textarea id="clvl346" name="clvl346" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl347" name="imclvl347"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl347" name="clvl347" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl347" name="imclvl347"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl347" name="clvl347" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl348" name="imclvl348"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl348" name="clvl348" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl348" name="imclvl348"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-black u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl348" name="clvl348" rows="1" cols="5" placeholder="1"> 8 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">UHF</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Fiber Optics</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl349" name="imclvl349"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl349" name="imclvl349"   > <option value="B">B</option>     <option value="A">A</option></select></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl349" name="clvl349" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3410" name="imclvl3410"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3410" name="clvl3410" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3410" name="clvl3410" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3411" name="imclvl3411"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3411" name="clvl3411" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3411" name="clvl3411" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -7132,55 +7132,55 @@
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3414" name="imclvl3414"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3414" name="clvl3414" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3414" name="clvl3414" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3415" name="imclvl3415"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3415" name="clvl3415" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3415" name="imclvl3415"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3415" name="clvl3415" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Fiber Optics</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3416" name="imclvl3416"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3416" name="clvl3416" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3416" name="imclvl3416"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3416" name="clvl3416" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3417" name="imclvl3417"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3417" name="clvl3417" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3417" name="imclvl3417"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3417" name="clvl3417" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">4G</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3418" name="imclvl3418"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3418" name="clvl3418" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3418" name="imclvl3418"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3418" name="clvl3418" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3419" name="imclvl3419"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3419" name="clvl3419" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3419" name="imclvl3419"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3419" name="clvl3419" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3420" name="imclvl3420"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3420" name="clvl3420" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3420" name="imclvl3420"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3420" name="clvl3420" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl341a" name="imclvl341a"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl341a" name="clvl341a" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl341a" name="imclvl341a"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl341a" name="clvl341a" rows="1" cols="5" placeholder="1"> 8 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">WIFI/RF Mesh</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3421" name="imclvl3421"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3421" name="clvl3421" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3421" name="imclvl3421"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3421" name="clvl3421" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -7197,13 +7197,13 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3424" name="imclvl3424"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3424" name="clvl3424" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3424" name="imclvl3424"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3424" name="clvl3424" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3425" name="imclvl3425"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3425" name="imclvl3425"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3425" name="clvl3425" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
@@ -7221,13 +7221,13 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3428" name="imclvl3428"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3428" name="clvl3428" rows="1" cols="5" placeholder="1"> 1 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3428" name="imclvl3428"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3428" name="clvl3428" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3429" name="imclvl3429"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3429" name="imclvl3429"   > <option value="A">A</option>     <option value="B">B</option></select></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3429" name="clvl3429" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
@@ -7239,32 +7239,32 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3431" name="imclvl3431"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3431" name="clvl3431" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3431" name="imclvl3431"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3431" name="clvl3431" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3432" name="imclvl3432"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3432" name="clvl3432" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3432" name="imclvl3432"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3432" name="clvl3432" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Private LTE / NB- IoT</td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">LoRA</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3433" name="imclvl3433"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3433" name="clvl3433" rows="1" cols="5" placeholder="1"> 3 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imclvl3433" name="imclvl3433"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="clvl3433" name="clvl3433" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"></td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3434" name="imclvl3434"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3434" name="clvl3434" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3434" name="imclvl3434"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3434" name="clvl3434" rows="1" cols="5" placeholder="1"> 5 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">LoRA</td>
                                               <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell">SATCOM</td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3435" name="imclvl3435"   > <option value="B">B</option>     <option value="A">A</option></select></td>
-                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3435" name="clvl3435" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><select  id="imclvl3435" name="imclvl3435"   > <option value="A">A</option>     <option value="B">B</option></select></td>
+                                              <td class="u-border-2 u-border-grey-75 u-border-no-left u-border-no-right u-table-cell"><textarea id="clvl3435" name="clvl3435" rows="1" cols="5" placeholder="1"> 6 </textarea></td>
                                             </tr>
                                           </tbody>
                                         </table>
