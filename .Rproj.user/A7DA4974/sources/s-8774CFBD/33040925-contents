@@ -1156,8 +1156,8 @@
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell">Zigbee</td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl349" name="imalvl349"   > <option value="A">A</option>     <option value="B">B</option></select></td>
-                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl349" name="alvl349" rows="1" cols="5" placeholder="1"> 4 </textarea></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><select  id="imalvl349" name="imalvl349"   > <option value="B">B</option>     <option value="A">A</option></select></td>
+                                              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"><textarea id="alvl349" name="alvl349" rows="1" cols="5" placeholder="1"> 2 </textarea></td>
                                             </tr>
                                             <tr style="height: 52px;">
                                               <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-table-cell"></td>
@@ -9200,7 +9200,7 @@
                   <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-size-60 u-layout-cell-1">
                     <div class="u-container-layout u-container-layout-1">
                       <h6 class="u-custom-font u-text u-text-font u-text-2">Technology ranking</h6>
-                      <p><pre id="tabledata2" name="tabledata2" class="shiny-text-output">Explanation</pre><br>
+                      <p><pre id="tabledata2" name="tabledata2" class="shiny-text-output">Click "Submit" button above</pre><br>
                       </p>
                     </div>
               </div>
@@ -9245,8 +9245,8 @@
                 <div class="u-layout-row">
                   <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-size-60 u-layout-cell-1">
                     <div class="u-container-layout u-container-layout-1">
-                      <h6 class="u-custom-font u-text u-text-font u-text-2">Technology ranking</h6>
-                      <p><pre id="tabledata3" name="tabledata3" class="shiny-text-output">Explanation</pre><br>
+                      <h6 class="u-custom-font u-text u-text-font u-text-2">Applicable Technology</h6>
+                      <p><pre id="tabledata3" name="tabledata3" class="shiny-text-output">Click "Submit" button above</pre><br>
                       </p>
                     </div>
               </div>
@@ -9259,18 +9259,18 @@
 
 
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-2bb1"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">Universiti Tenaga Nasional
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
       <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
+        <span></span>
       </a>
       <p class="u-text">
-        <span>created with</span>
+        <span></span>
       </p>
       <a class="u-link" href="https://nicepage.com/" target="_blank">
-        <span>Website Builder Software</span>
-      </a>.
+        <span></span>
+      </a>
     </section>
   </body>
 </html>
