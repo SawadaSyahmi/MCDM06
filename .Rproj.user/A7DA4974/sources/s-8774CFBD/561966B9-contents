@@ -171,28 +171,6 @@
         </div>
       </div>
     </section>
-                <section class="u-align-center u-clearfix u-section-4" id="carousel_fed8">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <h6 class="u-custom-font u-font-roboto-condensed u-text u-text-1"> 11kV Communication Technology Selection for SU25 Application</h6>
-        <div class="u-clearfix u-expanded-width u-gutter-100 u-layout-wrap u-layout-wrap-1">
-          <div class="u-gutter-0 u-layout">
-            <div class="u-layout-col">
-              <div class="u-size-60">
-                <div class="u-layout-row">
-                  <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-size-60 u-layout-cell-1">
-                    <div class="u-container-layout u-container-layout-1 ">
-                      <h6 class="u-custom-font u-text u-text-font u-text-2">SU25 Application</h6>
-                      <div style="text-align:left">
-                      {{ selectTech }}
-                     <!-- <button type="button" id="btnSU25" value="submit" class="shiny-bound-input action-button u-btn u-btn-submit u-button-style ">Submit</button -->
-                      </div>
-                    </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     <section class="u-clearfix u-section-3" id="sec-ced2">
       <div class="u-align-left u-clearfix u-sheet u-valign-bottom u-sheet-1">
         <h2 class="u-text u-text-1">Multi-Criteria Decision Ma<span style="font-weight: 400;"></span>king Algorithm
@@ -9233,10 +9211,31 @@
     </section>
 
 
+            <section class="u-align-center u-clearfix u-section-4" id="carousel_fed8">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h6 class="u-custom-font u-font-roboto-condensed u-text u-text-1"> 11kV Communication Technology Ranking for SU25 Application</h6>
+        <div class="u-clearfix u-expanded-width u-gutter-100 u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-col">
+              <div class="u-size-60">
+                <div class="u-layout-row">
+                  <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-size-60 u-layout-cell-1">
+                    <div class="u-container-layout u-container-layout-1 ">
+                      <h6 class="u-custom-font u-text u-text-font u-text-2">SU25 Application</h6>
+                      <div style="text-align:left">
+                      {{ selectTech }}
+                      <button type="button" id="btnSU25" value="submit" class="shiny-bound-input action-button u-btn u-btn-submit u-button-style ">Submit</button>
+                      </div>
+                    </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
-
-<!--        <section class="u-align-center u-clearfix u-section-4" id="carousel_fed8">
+        <section class="u-align-center u-clearfix u-section-4" id="carousel_fed8">
       <div class="u-clearfix u-sheet u-sheet-1">
         <h6 class="u-custom-font u-font-roboto-condensed u-text u-text-1"> Applicable Technology in 11kV substation for SU25 Application</h6>
         <div class="u-clearfix u-expanded-width u-gutter-100 u-layout-wrap u-layout-wrap-1">
@@ -9255,7 +9254,7 @@
           </div>
         </div>
       </div>
-    </section>-->
+    </section>
 
 
 
