@@ -2349,13 +2349,13 @@ server <- function(input, output) {
 
 
         level3_Mobi <- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2413,13 +2413,13 @@ server <- function(input, output) {
         Inlevel3_Mobi<-level3_Mobi
 
         level3_Distance<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2476,13 +2476,13 @@ server <- function(input, output) {
 
 
         level3_Scalability<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2538,13 +2538,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_DataRate<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2599,13 +2599,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Reliability<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2662,13 +2662,13 @@ server <- function(input, output) {
 
 
         level3_Capex<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2724,13 +2724,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Opex<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2785,13 +2785,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Spectrum<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2847,13 +2847,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_ExtInfra<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2909,13 +2909,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Install<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -2971,13 +2971,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Security<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -3033,13 +3033,13 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Maintain<- data.frame(
-            Name = c( "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_5G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
+            Name = c( "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_5G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
                       "5G_Fiber Optic",
                       "5G_Zigbee",
                       "5G_WiFi/RF Mesh",
@@ -3173,13 +3173,13 @@ server <- function(input, output) {
         ahpscale_alvl3_1<-as.integer(ahpscale_alvl3_1)
         ahpscale_alvl3_1a<-ahpscale_alvl3_1
         ahpscale_alvl3_1<-as.matrix(rbind(ahpscale_alvl3_1,ahpscale_alvl3_1a))
-        colnames(ahpscale_alvl3_1)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_1)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3210,13 +3210,13 @@ server <- function(input, output) {
         ahpscale_alvl3_2<-as.integer(ahpscale_alvl3_2)
         ahpscale_alvl3_2a<-ahpscale_alvl3_2
         ahpscale_alvl3_2<-as.matrix(rbind(ahpscale_alvl3_2,ahpscale_alvl3_2a))
-        colnames(ahpscale_alvl3_2)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_2)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3246,13 +3246,13 @@ server <- function(input, output) {
         ahpscale_alvl3_3<-as.integer(ahpscale_alvl3_3)
         ahpscale_alvl3_3a<-ahpscale_alvl3_3
         ahpscale_alvl3_3<-as.matrix(rbind(ahpscale_alvl3_3,ahpscale_alvl3_3a))
-        colnames(ahpscale_alvl3_3)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_3)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3283,13 +3283,13 @@ server <- function(input, output) {
         ahpscale_alvl3_4<-as.integer(ahpscale_alvl3_4)
         ahpscale_alvl3_4a<-ahpscale_alvl3_4
         ahpscale_alvl3_4<-as.matrix(rbind(ahpscale_alvl3_4,ahpscale_alvl3_4a))
-        colnames(ahpscale_alvl3_4)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_4)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3319,13 +3319,13 @@ server <- function(input, output) {
         ahpscale_alvl3_5<-as.integer(ahpscale_alvl3_5)
         ahpscale_alvl3_5a<-ahpscale_alvl3_5
         ahpscale_alvl3_5<-as.matrix(rbind(ahpscale_alvl3_5,ahpscale_alvl3_5a))
-        colnames(ahpscale_alvl3_5)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_5)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3355,13 +3355,13 @@ server <- function(input, output) {
         ahpscale_alvl3_6<-as.integer(ahpscale_alvl3_6)
         ahpscale_alvl3_6a<-ahpscale_alvl3_6
         ahpscale_alvl3_6<-as.matrix(rbind(ahpscale_alvl3_6,ahpscale_alvl3_6a))
-        colnames(ahpscale_alvl3_6)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_6)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3391,13 +3391,13 @@ server <- function(input, output) {
         ahpscale_alvl3_7<-as.integer(ahpscale_alvl3_7)
         ahpscale_alvl3_7a<-ahpscale_alvl3_7
         ahpscale_alvl3_7<-as.matrix(rbind(ahpscale_alvl3_7,ahpscale_alvl3_7a))
-        colnames(ahpscale_alvl3_7)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_7)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3427,13 +3427,13 @@ server <- function(input, output) {
         ahpscale_alvl3_8<-as.integer(ahpscale_alvl3_8)
         ahpscale_alvl3_8a<-ahpscale_alvl3_8
         ahpscale_alvl3_8<-as.matrix(rbind(ahpscale_alvl3_8,ahpscale_alvl3_8a))
-        colnames(ahpscale_alvl3_8)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_8)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3463,13 +3463,13 @@ server <- function(input, output) {
         ahpscale_alvl3_9<-as.integer(ahpscale_alvl3_9)
         ahpscale_alvl3_9a<-ahpscale_alvl3_9
         ahpscale_alvl3_9<-as.matrix(rbind(ahpscale_alvl3_9,ahpscale_alvl3_9a))
-        colnames(ahpscale_alvl3_9)<-c( "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_5G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_9)<-c( "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_5G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
                                        "5G_Fiber Optic",
                                        "5G_Zigbee",
                                        "5G_WiFi/RF Mesh",
@@ -3499,13 +3499,13 @@ server <- function(input, output) {
         ahpscale_alvl3_10<-as.integer(ahpscale_alvl3_10)
         ahpscale_alvl3_10a<-ahpscale_alvl3_10
         ahpscale_alvl3_10<-as.matrix(rbind(ahpscale_alvl3_10,ahpscale_alvl3_10a))
-        colnames(ahpscale_alvl3_10)<-c( "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_5G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_10)<-c( "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_5G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
                                         "5G_Fiber Optic",
                                         "5G_Zigbee",
                                         "5G_WiFi/RF Mesh",
@@ -3535,13 +3535,13 @@ server <- function(input, output) {
         ahpscale_alvl3_11<-as.integer(ahpscale_alvl3_11)
         ahpscale_alvl3_11a<-ahpscale_alvl3_11
         ahpscale_alvl3_11<-as.matrix(rbind(ahpscale_alvl3_11,ahpscale_alvl3_11a))
-        colnames(ahpscale_alvl3_11)<-c( "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_5G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_11)<-c( "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_5G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
                                         "5G_Fiber Optic",
                                         "5G_Zigbee",
                                         "5G_WiFi/RF Mesh",
@@ -3572,13 +3572,13 @@ server <- function(input, output) {
         ahpscale_alvl3_12<-as.integer(ahpscale_alvl3_12)
         ahpscale_alvl3_12a<-ahpscale_alvl3_12
         ahpscale_alvl3_12<-as.matrix(rbind(ahpscale_alvl3_12,ahpscale_alvl3_12a))
-        colnames(ahpscale_alvl3_12)<-c( "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_5G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
+        colnames(ahpscale_alvl3_12)<-c( "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_5G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
                                         "5G_Fiber Optic",
                                         "5G_Zigbee",
                                         "5G_WiFi/RF Mesh",
@@ -3660,7 +3660,7 @@ server <- function(input, output) {
         eigenmean_alvl2_4= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_1, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_1, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3670,7 +3670,7 @@ server <- function(input, output) {
 
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_2, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_2, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3679,7 +3679,7 @@ server <- function(input, output) {
         eigenmean_alvl3_2= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_3, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_3, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3688,7 +3688,7 @@ server <- function(input, output) {
         eigenmean_alvl3_3= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_4, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_4, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3697,7 +3697,7 @@ server <- function(input, output) {
         eigenmean_alvl3_4= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_5, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_5, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3706,7 +3706,7 @@ server <- function(input, output) {
         eigenmean_alvl3_5= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_6, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_6, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3715,7 +3715,7 @@ server <- function(input, output) {
         eigenmean_alvl3_6= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_7, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_7, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3724,7 +3724,7 @@ server <- function(input, output) {
         eigenmean_alvl3_7= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_8, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_8, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3733,7 +3733,7 @@ server <- function(input, output) {
         eigenmean_alvl3_8= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_9, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_9, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3742,7 +3742,7 @@ server <- function(input, output) {
         eigenmean_alvl3_9= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_10, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_10, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3751,7 +3751,7 @@ server <- function(input, output) {
         eigenmean_alvl3_10= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_11, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_11, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3760,7 +3760,7 @@ server <- function(input, output) {
         eigenmean_alvl3_11= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_12, atts = c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_12, atts = c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=8, ncol=8,  byrow=TRUE))
@@ -3815,7 +3815,7 @@ server <- function(input, output) {
         listlevel3_Econ<-c("eigenmean_alvl3_11","eigenmean_alvl3_12")
         listlevel3_Infra<-c("eigenmean_alvl3_6","eigenmean_alvl3_9")
         listlevel3_Service<-c("eigenmean_alvl3_8", "eigenmean_alvl3_7","eigenmean_alvl3_10")
-        Tech<-c("NBPLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora")
+        Tech<-c("PLC", "5G","Fiber", "Zigbee", "Wifi", "4G", "PrivateLte", "Lora")
 
 
         SumEVTotal=c()
@@ -3864,46 +3864,46 @@ server <- function(input, output) {
 
         SortedEvscore
 
-        a1 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a1 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
         a2 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a3 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a4 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a5 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a6 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','RF-Mesh' ,'4G','PrivateLte','UHF','5G','SATCOM'))
+        a6 <- data.frame(Tech = c('Fiber','Wifi','RF-Mesh' ,'4G','PrivateLte','UHF','5G','SATCOM'))
         a7 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
         a8 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
         a9 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
 
-        a10 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a11 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a10 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a11 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
         a12 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a13 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a14 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a15 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
-        a16 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a17 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a18 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
+        a14 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a15 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
+        a16 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a17 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a18 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','5G'))
 
-        a19 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a20 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a21 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a22 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
-        a23 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a24 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a25 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a19 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a20 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a21 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a22 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a23 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a24 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a25 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
 
-        a26 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a27 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a28 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a29 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a30 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a31 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a32 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a33 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a34 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a35 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a26 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a27 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a28 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a29 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a30 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a31 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a32 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a33 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a34 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a35 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
 
-        a36 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a36 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
         a37 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a38 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
 
@@ -7028,14 +7028,14 @@ server <- function(input, output) {
 
 
         level3_Mobi <- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7109,14 +7109,14 @@ server <- function(input, output) {
         Inlevel3_Mobi<-level3_Mobi
 
         level3_Distance<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7188,14 +7188,14 @@ server <- function(input, output) {
 
 
         level3_Scalability<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7265,14 +7265,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_DataRate<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7342,14 +7342,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Reliability<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7421,14 +7421,14 @@ server <- function(input, output) {
 
 
         level3_Capex<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7499,14 +7499,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Opex<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7576,14 +7576,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Spectrum<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7654,14 +7654,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_ExtInfra<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7732,14 +7732,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Install<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7810,14 +7810,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Security<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -7888,14 +7888,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Maintain<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -8044,14 +8044,14 @@ server <- function(input, output) {
         ahpscale_alvl3_1<-as.integer(ahpscale_alvl3_1)
         ahpscale_alvl3_1a<-ahpscale_alvl3_1
         ahpscale_alvl3_1<-as.matrix(rbind(ahpscale_alvl3_1,ahpscale_alvl3_1a))
-        colnames(ahpscale_alvl3_1)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_1)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8089,14 +8089,14 @@ server <- function(input, output) {
         ahpscale_alvl3_2<-as.integer(ahpscale_alvl3_2)
         ahpscale_alvl3_2a<-ahpscale_alvl3_2
         ahpscale_alvl3_2<-as.matrix(rbind(ahpscale_alvl3_2,ahpscale_alvl3_2a))
-        colnames(ahpscale_alvl3_2)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_2)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8133,14 +8133,14 @@ server <- function(input, output) {
         ahpscale_alvl3_3<-as.integer(ahpscale_alvl3_3)
         ahpscale_alvl3_3a<-ahpscale_alvl3_3
         ahpscale_alvl3_3<-as.matrix(rbind(ahpscale_alvl3_3,ahpscale_alvl3_3a))
-        colnames(ahpscale_alvl3_3)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_3)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8178,14 +8178,14 @@ server <- function(input, output) {
         ahpscale_alvl3_4<-as.integer(ahpscale_alvl3_4)
         ahpscale_alvl3_4a<-ahpscale_alvl3_4
         ahpscale_alvl3_4<-as.matrix(rbind(ahpscale_alvl3_4,ahpscale_alvl3_4a))
-        colnames(ahpscale_alvl3_4)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_4)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8222,14 +8222,14 @@ server <- function(input, output) {
         ahpscale_alvl3_5<-as.integer(ahpscale_alvl3_5)
         ahpscale_alvl3_5a<-ahpscale_alvl3_5
         ahpscale_alvl3_5<-as.matrix(rbind(ahpscale_alvl3_5,ahpscale_alvl3_5a))
-        colnames(ahpscale_alvl3_5)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_5)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8266,14 +8266,14 @@ server <- function(input, output) {
         ahpscale_alvl3_6<-as.integer(ahpscale_alvl3_6)
         ahpscale_alvl3_6a<-ahpscale_alvl3_6
         ahpscale_alvl3_6<-as.matrix(rbind(ahpscale_alvl3_6,ahpscale_alvl3_6a))
-        colnames(ahpscale_alvl3_6)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_6)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8310,14 +8310,14 @@ server <- function(input, output) {
         ahpscale_alvl3_7<-as.integer(ahpscale_alvl3_7)
         ahpscale_alvl3_7a<-ahpscale_alvl3_7
         ahpscale_alvl3_7<-as.matrix(rbind(ahpscale_alvl3_7,ahpscale_alvl3_7a))
-        colnames(ahpscale_alvl3_7)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_7)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8354,14 +8354,14 @@ server <- function(input, output) {
         ahpscale_alvl3_8<-as.integer(ahpscale_alvl3_8)
         ahpscale_alvl3_8a<-ahpscale_alvl3_8
         ahpscale_alvl3_8<-as.matrix(rbind(ahpscale_alvl3_8,ahpscale_alvl3_8a))
-        colnames(ahpscale_alvl3_8)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_8)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8398,14 +8398,14 @@ server <- function(input, output) {
         ahpscale_alvl3_9<-as.integer(ahpscale_alvl3_9)
         ahpscale_alvl3_9a<-ahpscale_alvl3_9
         ahpscale_alvl3_9<-as.matrix(rbind(ahpscale_alvl3_9,ahpscale_alvl3_9a))
-        colnames(ahpscale_alvl3_9)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_9)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -8442,14 +8442,14 @@ server <- function(input, output) {
         ahpscale_alvl3_10<-as.integer(ahpscale_alvl3_10)
         ahpscale_alvl3_10a<-ahpscale_alvl3_10
         ahpscale_alvl3_10<-as.matrix(rbind(ahpscale_alvl3_10,ahpscale_alvl3_10a))
-        colnames(ahpscale_alvl3_10)<-c( "NBPLC_UHF",
-                                        "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
-                                        "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_10)<-c( "PLC_UHF",
+                                        "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
+                                        "PLC_SATCOM",
                                         "UHF_Fiber Optic",
                                         "UHF_Zigbee",
                                         "UHF_WiFi/RF Mesh",
@@ -8486,14 +8486,14 @@ server <- function(input, output) {
         ahpscale_alvl3_11<-as.integer(ahpscale_alvl3_11)
         ahpscale_alvl3_11a<-ahpscale_alvl3_11
         ahpscale_alvl3_11<-as.matrix(rbind(ahpscale_alvl3_11,ahpscale_alvl3_11a))
-        colnames(ahpscale_alvl3_11)<-c( "NBPLC_UHF",
-                                        "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
-                                        "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_11)<-c( "PLC_UHF",
+                                        "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
+                                        "PLC_SATCOM",
                                         "UHF_Fiber Optic",
                                         "UHF_Zigbee",
                                         "UHF_WiFi/RF Mesh",
@@ -8531,14 +8531,14 @@ server <- function(input, output) {
         ahpscale_alvl3_12<-as.integer(ahpscale_alvl3_12)
         ahpscale_alvl3_12a<-ahpscale_alvl3_12
         ahpscale_alvl3_12<-as.matrix(rbind(ahpscale_alvl3_12,ahpscale_alvl3_12a))
-        colnames(ahpscale_alvl3_12)<-c( "NBPLC_UHF",
-                                        "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
-                                        "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_12)<-c( "PLC_UHF",
+                                        "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
+                                        "PLC_SATCOM",
                                         "UHF_Fiber Optic",
                                         "UHF_Zigbee",
                                         "UHF_WiFi/RF Mesh",
@@ -8627,7 +8627,7 @@ server <- function(input, output) {
         eigenmean_alvl2_4= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_1, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_1, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         ##print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8637,7 +8637,7 @@ server <- function(input, output) {
         ##print(eigenmean_alvl3_1)
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_2, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_2, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8646,7 +8646,7 @@ server <- function(input, output) {
         eigenmean_alvl3_2= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_3, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_3, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8655,7 +8655,7 @@ server <- function(input, output) {
         eigenmean_alvl3_3= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_4, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_4, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8664,7 +8664,7 @@ server <- function(input, output) {
         eigenmean_alvl3_4= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_5, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_5, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8673,7 +8673,7 @@ server <- function(input, output) {
         eigenmean_alvl3_5= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_6, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_6, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8682,7 +8682,7 @@ server <- function(input, output) {
         eigenmean_alvl3_6= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_7, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_7, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8691,7 +8691,7 @@ server <- function(input, output) {
         eigenmean_alvl3_7= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_8, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_8, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8700,7 +8700,7 @@ server <- function(input, output) {
         eigenmean_alvl3_8= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_9, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_9, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8709,7 +8709,7 @@ server <- function(input, output) {
         eigenmean_alvl3_9= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_10, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_10, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8718,7 +8718,7 @@ server <- function(input, output) {
         eigenmean_alvl3_10= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_11, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_11, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8727,7 +8727,7 @@ server <- function(input, output) {
         eigenmean_alvl3_11= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_12, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_12, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -8776,7 +8776,7 @@ server <- function(input, output) {
         listlevel3_Econ<-c("eigenmean_alvl3_11","eigenmean_alvl3_12")
         listlevel3_Infra<-c("eigenmean_alvl3_6","eigenmean_alvl3_9")
         listlevel3_Service<-c("eigenmean_alvl3_8", "eigenmean_alvl3_7","eigenmean_alvl3_10")
-        Tech<-c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM")
+        Tech<-c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM")
 
         SumEVTotal=c()
 
@@ -8819,46 +8819,46 @@ server <- function(input, output) {
         SortedEvscore <- arrange(EVscore,-SumEVTotal)
 
         #print(SortedEvscore)
-        a1 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a1 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
         a2 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a3 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a4 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a5 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a6 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','RF-Mesh' ,'4G','PrivateLte','UHF','5G','SATCOM'))
+        a6 <- data.frame(Tech = c('Fiber','Wifi','RF-Mesh' ,'4G','PrivateLte','UHF','5G','SATCOM'))
         a7 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
         a8 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
         a9 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
 
-        a10 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a11 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a10 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a11 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
         a12 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a13 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a14 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a15 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
-        a16 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a17 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a18 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
+        a14 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a15 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
+        a16 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a17 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a18 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','5G'))
 
-        a19 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a20 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a21 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a22 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
-        a23 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a24 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a25 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a19 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a20 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a21 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a22 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a23 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a24 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a25 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
 
-        a26 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a27 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a28 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a29 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a30 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a31 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a32 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a33 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a34 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a35 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a26 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a27 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a28 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a29 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a30 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a31 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a32 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a33 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a34 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a35 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
 
-        a36 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a36 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
         a37 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a38 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
 
@@ -11988,14 +11988,14 @@ server <- function(input, output) {
 
 
         level3_Mobi <- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12069,14 +12069,14 @@ server <- function(input, output) {
         Inlevel3_Mobi<-level3_Mobi
 
         level3_Distance<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12148,14 +12148,14 @@ server <- function(input, output) {
 
 
         level3_Scalability<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12225,14 +12225,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_DataRate<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12302,14 +12302,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Reliability<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12381,14 +12381,14 @@ server <- function(input, output) {
 
 
         level3_Capex<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12459,14 +12459,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Opex<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12536,14 +12536,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Spectrum<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12614,14 +12614,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_ExtInfra<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12692,14 +12692,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Install<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12770,14 +12770,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Security<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -12848,14 +12848,14 @@ server <- function(input, output) {
             stringsAsFactors = FALSE)
 
         level3_Maintain<- data.frame(
-            Name = c( "NBPLC_UHF",
-                      "NBPLC_Fiber Optic",
-                      "NBPLC_Zigbee",
-                      "NBPLC_WiFi/RF Mesh",
-                      "NBPLC_4G",
-                      "NBPLC_Private LTE + NB IoT",
-                      "NBPLC_LoRA",
-                      "NBPLC_SATCOM",
+            Name = c( "PLC_UHF",
+                      "PLC_Fiber Optic",
+                      "PLC_Zigbee",
+                      "PLC_WiFi/RF Mesh",
+                      "PLC_4G",
+                      "PLC_Private LTE + NB IoT",
+                      "PLC_LoRA",
+                      "PLC_SATCOM",
                       "UHF_Fiber Optic",
                       "UHF_Zigbee",
                       "UHF_WiFi/RF Mesh",
@@ -13004,14 +13004,14 @@ server <- function(input, output) {
         ahpscale_alvl3_1<-as.integer(ahpscale_alvl3_1)
         ahpscale_alvl3_1a<-ahpscale_alvl3_1
         ahpscale_alvl3_1<-as.matrix(rbind(ahpscale_alvl3_1,ahpscale_alvl3_1a))
-        colnames(ahpscale_alvl3_1)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_1)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13049,14 +13049,14 @@ server <- function(input, output) {
         ahpscale_alvl3_2<-as.integer(ahpscale_alvl3_2)
         ahpscale_alvl3_2a<-ahpscale_alvl3_2
         ahpscale_alvl3_2<-as.matrix(rbind(ahpscale_alvl3_2,ahpscale_alvl3_2a))
-        colnames(ahpscale_alvl3_2)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_2)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13093,14 +13093,14 @@ server <- function(input, output) {
         ahpscale_alvl3_3<-as.integer(ahpscale_alvl3_3)
         ahpscale_alvl3_3a<-ahpscale_alvl3_3
         ahpscale_alvl3_3<-as.matrix(rbind(ahpscale_alvl3_3,ahpscale_alvl3_3a))
-        colnames(ahpscale_alvl3_3)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_3)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13138,14 +13138,14 @@ server <- function(input, output) {
         ahpscale_alvl3_4<-as.integer(ahpscale_alvl3_4)
         ahpscale_alvl3_4a<-ahpscale_alvl3_4
         ahpscale_alvl3_4<-as.matrix(rbind(ahpscale_alvl3_4,ahpscale_alvl3_4a))
-        colnames(ahpscale_alvl3_4)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_4)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13182,14 +13182,14 @@ server <- function(input, output) {
         ahpscale_alvl3_5<-as.integer(ahpscale_alvl3_5)
         ahpscale_alvl3_5a<-ahpscale_alvl3_5
         ahpscale_alvl3_5<-as.matrix(rbind(ahpscale_alvl3_5,ahpscale_alvl3_5a))
-        colnames(ahpscale_alvl3_5)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_5)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13226,14 +13226,14 @@ server <- function(input, output) {
         ahpscale_alvl3_6<-as.integer(ahpscale_alvl3_6)
         ahpscale_alvl3_6a<-ahpscale_alvl3_6
         ahpscale_alvl3_6<-as.matrix(rbind(ahpscale_alvl3_6,ahpscale_alvl3_6a))
-        colnames(ahpscale_alvl3_6)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_6)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13270,14 +13270,14 @@ server <- function(input, output) {
         ahpscale_alvl3_7<-as.integer(ahpscale_alvl3_7)
         ahpscale_alvl3_7a<-ahpscale_alvl3_7
         ahpscale_alvl3_7<-as.matrix(rbind(ahpscale_alvl3_7,ahpscale_alvl3_7a))
-        colnames(ahpscale_alvl3_7)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_7)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13314,14 +13314,14 @@ server <- function(input, output) {
         ahpscale_alvl3_8<-as.integer(ahpscale_alvl3_8)
         ahpscale_alvl3_8a<-ahpscale_alvl3_8
         ahpscale_alvl3_8<-as.matrix(rbind(ahpscale_alvl3_8,ahpscale_alvl3_8a))
-        colnames(ahpscale_alvl3_8)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_8)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13358,14 +13358,14 @@ server <- function(input, output) {
         ahpscale_alvl3_9<-as.integer(ahpscale_alvl3_9)
         ahpscale_alvl3_9a<-ahpscale_alvl3_9
         ahpscale_alvl3_9<-as.matrix(rbind(ahpscale_alvl3_9,ahpscale_alvl3_9a))
-        colnames(ahpscale_alvl3_9)<-c( "NBPLC_UHF",
-                                       "NBPLC_Fiber Optic",
-                                       "NBPLC_Zigbee",
-                                       "NBPLC_WiFi/RF Mesh",
-                                       "NBPLC_4G",
-                                       "NBPLC_Private LTE + NB IoT",
-                                       "NBPLC_LoRA",
-                                       "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_9)<-c( "PLC_UHF",
+                                       "PLC_Fiber Optic",
+                                       "PLC_Zigbee",
+                                       "PLC_WiFi/RF Mesh",
+                                       "PLC_4G",
+                                       "PLC_Private LTE + NB IoT",
+                                       "PLC_LoRA",
+                                       "PLC_SATCOM",
                                        "UHF_Fiber Optic",
                                        "UHF_Zigbee",
                                        "UHF_WiFi/RF Mesh",
@@ -13402,14 +13402,14 @@ server <- function(input, output) {
         ahpscale_alvl3_10<-as.integer(ahpscale_alvl3_10)
         ahpscale_alvl3_10a<-ahpscale_alvl3_10
         ahpscale_alvl3_10<-as.matrix(rbind(ahpscale_alvl3_10,ahpscale_alvl3_10a))
-        colnames(ahpscale_alvl3_10)<-c( "NBPLC_UHF",
-                                        "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
-                                        "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_10)<-c( "PLC_UHF",
+                                        "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
+                                        "PLC_SATCOM",
                                         "UHF_Fiber Optic",
                                         "UHF_Zigbee",
                                         "UHF_WiFi/RF Mesh",
@@ -13446,14 +13446,14 @@ server <- function(input, output) {
         ahpscale_alvl3_11<-as.integer(ahpscale_alvl3_11)
         ahpscale_alvl3_11a<-ahpscale_alvl3_11
         ahpscale_alvl3_11<-as.matrix(rbind(ahpscale_alvl3_11,ahpscale_alvl3_11a))
-        colnames(ahpscale_alvl3_11)<-c( "NBPLC_UHF",
-                                        "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
-                                        "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_11)<-c( "PLC_UHF",
+                                        "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
+                                        "PLC_SATCOM",
                                         "UHF_Fiber Optic",
                                         "UHF_Zigbee",
                                         "UHF_WiFi/RF Mesh",
@@ -13491,14 +13491,14 @@ server <- function(input, output) {
         ahpscale_alvl3_12<-as.integer(ahpscale_alvl3_12)
         ahpscale_alvl3_12a<-ahpscale_alvl3_12
         ahpscale_alvl3_12<-as.matrix(rbind(ahpscale_alvl3_12,ahpscale_alvl3_12a))
-        colnames(ahpscale_alvl3_12)<-c( "NBPLC_UHF",
-                                        "NBPLC_Fiber Optic",
-                                        "NBPLC_Zigbee",
-                                        "NBPLC_WiFi/RF Mesh",
-                                        "NBPLC_4G",
-                                        "NBPLC_Private LTE + NB IoT",
-                                        "NBPLC_LoRA",
-                                        "NBPLC_SATCOM",
+        colnames(ahpscale_alvl3_12)<-c( "PLC_UHF",
+                                        "PLC_Fiber Optic",
+                                        "PLC_Zigbee",
+                                        "PLC_WiFi/RF Mesh",
+                                        "PLC_4G",
+                                        "PLC_Private LTE + NB IoT",
+                                        "PLC_LoRA",
+                                        "PLC_SATCOM",
                                         "UHF_Fiber Optic",
                                         "UHF_Zigbee",
                                         "UHF_WiFi/RF Mesh",
@@ -13587,7 +13587,7 @@ server <- function(input, output) {
         eigenmean_alvl2_4= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_1, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_1, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         ##print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13597,7 +13597,7 @@ server <- function(input, output) {
         ##print(eigenmean_alvl3_1)
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_2, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_2, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13606,7 +13606,7 @@ server <- function(input, output) {
         eigenmean_alvl3_2= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_3, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_3, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13615,7 +13615,7 @@ server <- function(input, output) {
         eigenmean_alvl3_3= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_4, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_4, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13624,7 +13624,7 @@ server <- function(input, output) {
         eigenmean_alvl3_4= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_5, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_5, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13633,7 +13633,7 @@ server <- function(input, output) {
         eigenmean_alvl3_5= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_6, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_6, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13642,7 +13642,7 @@ server <- function(input, output) {
         eigenmean_alvl3_6= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_7, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_7, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13651,7 +13651,7 @@ server <- function(input, output) {
         eigenmean_alvl3_7= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_8, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_8, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13660,7 +13660,7 @@ server <- function(input, output) {
         eigenmean_alvl3_8= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_9, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_9, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13669,7 +13669,7 @@ server <- function(input, output) {
         eigenmean_alvl3_9= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_10, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_10, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13678,7 +13678,7 @@ server <- function(input, output) {
         eigenmean_alvl3_10= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_11, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_11, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13687,7 +13687,7 @@ server <- function(input, output) {
         eigenmean_alvl3_11= Re(eB/sum(eB))
 
 
-        MatrixChck01<-ahp.mat(ahpscale_alvl3_12, atts = c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
+        MatrixChck01<-ahp.mat(ahpscale_alvl3_12, atts = c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM"), negconvert = TRUE)
         # #print(MatrixChck01)
 
         B=(matrix(unlist(MatrixChck01), nrow=9, ncol=9,  byrow=TRUE))
@@ -13736,7 +13736,7 @@ server <- function(input, output) {
         listlevel3_Econ<-c("eigenmean_alvl3_11","eigenmean_alvl3_12")
         listlevel3_Infra<-c("eigenmean_alvl3_6","eigenmean_alvl3_9")
         listlevel3_Service<-c("eigenmean_alvl3_8", "eigenmean_alvl3_7","eigenmean_alvl3_10")
-        Tech<-c("NBPLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM")
+        Tech<-c("PLC","UHF","Fiber", "Zigbee", "Wifi", "4G","PrivateLte", "Lora","SATCOM")
 
         SumEVTotal=c()
 
@@ -13781,46 +13781,46 @@ server <- function(input, output) {
         #print(SortedEvscore)
         # output$tabledata  <- render#print({SortedEvscore})
 
-        a1 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a1 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
         a2 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a3 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a4 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a5 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a6 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','RF-Mesh' ,'4G','PrivateLte','UHF','5G','SATCOM'))
+        a6 <- data.frame(Tech = c('Fiber','Wifi','RF-Mesh' ,'4G','PrivateLte','UHF','5G','SATCOM'))
         a7 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
         a8 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
         a9 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
 
-        a10 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a11 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a10 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a11 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
         a12 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a13 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a14 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a15 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
-        a16 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a17 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a18 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
+        a14 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a15 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
+        a16 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        a17 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a18 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','5G'))
 
-        a19 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a20 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a21 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a22 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','5G'))
-        a23 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a24 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a25 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a19 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a20 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a21 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a22 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a23 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a24 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a25 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
 
-        a26 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a27 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a28 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a29 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a30 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a31 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a32 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a33 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a34 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a35 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a26 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a27 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a28 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a29 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a30 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a31 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a32 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a33 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a34 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a35 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
 
-        a36 <- data.frame(Tech = c('NBPLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        a36 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
         a37 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
         a38 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
 
