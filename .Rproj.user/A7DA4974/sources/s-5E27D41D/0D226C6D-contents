@@ -23,14 +23,14 @@ ui <-  htmlTemplate(
                                       "2	Distribution Automation (DA)" = "a2",
                                       "3.	Advanced Distribution Management System (ADMS)" = "a3",
                                       "4.	Mobility Solutions" = "a4",
-                                      "5.	Geographic Information System (GIS) " = "a5",
+                                      # "5.	Geographic Information System (GIS) " = "a5",
                                       "6.	Volt-Voltage Optimizations (VVO)" = "a6",
                                       "7.	Smart Energy Management Infra (SEMI)" = "a7",
                                       "8.	EV Charging Infrastructure" = "a8",
                                       "9.	Smart Battery Storage (ESS)" = "a9",
                                       "10.	Enterprise Asset Management System (EAMS)" = "a10",
                                       "11.	Smart Grid Equipment & Comms" = "a11",
-                                      "12.	Advanced Asset Analytics (AAA)" = "a12",
+                                      "12.	Advanced Asset Analytics (AAA)" = "a12"
                                       # "IoT Integration, drones based inspections" = "a13",
                                       # "Digital work permits and approvals" = "a14",
                                       # "Develop Smart Meter Operations Centre (SMOC)" = "a15",
@@ -13781,48 +13781,48 @@ server <- function(input, output) {
         #print(SortedEvscore)
         # output$tabledata  <- render#print({SortedEvscore})
 
-        a1 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a2 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
-        a3 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
-        a4 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
-        a5 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a6 <- data.frame(Tech = c('Fiber','Wifi','RF-Mesh' ,'4G','PrivateLte','UHF','5G','SATCOM'))
-        a7 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a8 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a9 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
+        a1 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
+        a2 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
+        a3 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
+        a4 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
+        a6 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
 
-        a10 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a11 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a12 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
-        a13 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a14 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a15 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
-        a16 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
-        a17 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a18 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','5G'))
+        a7 <- data.frame(Tech = c('Fiber', 'Wifi','4G','PrivateLte','5G', 'UHF'))
+        a8 <- data.frame(Tech = c('Fiber', 'Wifi','4G','PrivateLte','5G', 'UHF'))
+        a9 <- data.frame(Tech = c('Fiber', 'Wifi','4G','PrivateLte','5G', 'UHF'))
 
-        a19 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a20 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a21 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a22 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a23 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a24 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a25 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-
-        a26 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a27 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a28 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a29 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a30 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a31 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a32 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a33 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a34 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a35 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-
-        a36 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
-        a37 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
-        a38 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
+        a10 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
+        a11 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
+        a12 <- data.frame(Tech = c('Fiber','4G','PrivateLte','5G'))
+        # a13 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
+        # a14 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        # a15 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','5G'))
+        # a16 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G','SATCOM'))
+        # a17 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a18 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','5G'))
+        #
+        # a19 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a20 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a21 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a22 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a23 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a24 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a25 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        #
+        # a26 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a27 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a28 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a29 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a30 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a31 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a32 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a33 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a34 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a35 <- data.frame(Tech = c('Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        #
+        # a36 <- data.frame(Tech = c('PLC','Fiber','Wifi','4G','PrivateLte','UHF','5G'))
+        # a37 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
+        # a38 <- data.frame(Tech = c('Fiber','PrivateLte','5G'))
 
 
 
@@ -13833,7 +13833,7 @@ server <- function(input, output) {
         t2<-data.frame(Tech = c())
         t3<-data.frame(Tech = c())
         t4<-data.frame(Tech = c())
-        t5<-data.frame(Tech = c())
+        # t5<-data.frame(Tech = c())
         t6<-data.frame(Tech = c())
         t7<-data.frame(Tech = c())
         t8<-data.frame(Tech = c())
@@ -13841,32 +13841,32 @@ server <- function(input, output) {
         t10<-data.frame(Tech = c())
         t11<-data.frame(Tech = c())
         t12<-data.frame(Tech = c())
-        t13<-data.frame(Tech = c())
-        t14<-data.frame(Tech = c())
-        t15<-data.frame(Tech = c())
-        t16<-data.frame(Tech = c())
-        t17<-data.frame(Tech = c())
-        t18<-data.frame(Tech = c())
-        t19<-data.frame(Tech = c())
-        t20<-data.frame(Tech = c())
-        t21<-data.frame(Tech = c())
-        t22<-data.frame(Tech = c())
-        t23<-data.frame(Tech = c())
-        t24<-data.frame(Tech = c())
-        t25<-data.frame(Tech = c())
-        t26<-data.frame(Tech = c())
-        t27<-data.frame(Tech = c())
-        t28<-data.frame(Tech = c())
-        t29<-data.frame(Tech = c())
-        t30<-data.frame(Tech = c())
-        t31<-data.frame(Tech = c())
-        t32<-data.frame(Tech = c())
-        t33<-data.frame(Tech = c())
-        t34<-data.frame(Tech = c())
-        t35<-data.frame(Tech = c())
-        t36<-data.frame(Tech = c())
-        t37<-data.frame(Tech = c())
-        t38<-data.frame(Tech = c())
+        # t13<-data.frame(Tech = c())
+        # t14<-data.frame(Tech = c())
+        # t15<-data.frame(Tech = c())
+        # t16<-data.frame(Tech = c())
+        # t17<-data.frame(Tech = c())
+        # t18<-data.frame(Tech = c())
+        # t19<-data.frame(Tech = c())
+        # t20<-data.frame(Tech = c())
+        # t21<-data.frame(Tech = c())
+        # t22<-data.frame(Tech = c())
+        # t23<-data.frame(Tech = c())
+        # t24<-data.frame(Tech = c())
+        # t25<-data.frame(Tech = c())
+        # t26<-data.frame(Tech = c())
+        # t27<-data.frame(Tech = c())
+        # t28<-data.frame(Tech = c())
+        # t29<-data.frame(Tech = c())
+        # t30<-data.frame(Tech = c())
+        # t31<-data.frame(Tech = c())
+        # t32<-data.frame(Tech = c())
+        # t33<-data.frame(Tech = c())
+        # t34<-data.frame(Tech = c())
+        # t35<-data.frame(Tech = c())
+        # t36<-data.frame(Tech = c())
+        # t37<-data.frame(Tech = c())
+        # t38<-data.frame(Tech = c())
 
 
         if(is.null(combineTechNT)){
@@ -13895,10 +13895,10 @@ server <- function(input, output) {
                 t4<-a4
             }
 
-            if(combineTechNT[i] == "a5"){
-
-                t5<-a5
-            }
+            # if(combineTechNT[i] == "a5"){
+            #
+            #     t5<-a5
+            # }
 
             if(combineTechNT[i] == "a6"){
 
@@ -13935,145 +13935,150 @@ server <- function(input, output) {
                 t12<-a12
             }
 
-            if(combineTechNT[i] == "a13"){
+            # if(combineTechNT[i] == "a13"){
+            #
+            #     t13<-a13
+            # }
 
-                t13<-a13
-            }
-
-            if(combineTechNT[i] == "a14"){
-
-                t14<-a14
-            }
-
-            if(combineTechNT[i] == "a15"){
-
-                t15<-a15
-            }
-
-            if(combineTechNT[i] == "a16"){
-
-                t16<-a16
-            }
-
-            if(combineTechNT[i] == "a17"){
-
-                t17<-a17
-            }
-
-            if(combineTechNT[i] == "a18"){
-
-                t18<-a18
-            }
-
-            if(combineTechNT[i] == "a19"){
-
-                t19<-a19
-            }
-
-            if(combineTechNT[i] == "a20"){
-
-                t20<-a20
-            }
-
-            if(combineTechNT[i] == "a21"){
-
-                t21<-a21
-            }
-
-            if(combineTechNT[i] == "a22"){
-
-                t22<-a22
-            }
-
-            if(combineTechNT[i] == "a23"){
-
-                t23<-a23
-            }
-
-            if(combineTechNT[i] == "a24"){
-
-                t24<-a24
-            }
-
-            if(combineTechNT[i] == "a25"){
-
-                t25<-a25
-            }
-
-            if(combineTechNT[i] == "a26"){
-
-                t26<-a26
-            }
-
-            if(combineTechNT[i] == "a27"){
-
-                t27<-a27
-            }
-
-            if(combineTechNT[i] == "a28"){
-
-                t28<-a28
-            }
-
-            if(combineTechNT[i] == "a29"){
-
-                t29<-a29
-            }
-
-            if(combineTechNT[i] == "a30"){
-
-                t30<-a30
-            }
-
-            if(combineTechNT[i] == "a31"){
-
-                t31<-a31
-            }
-
-            if(combineTechNT[i] == "a32"){
-
-                t32<-a32
-            }
-
-            if(combineTechNT[i] == "a33"){
-
-                t33<-a33
-            }
-
-            if(combineTechNT[i] == "a34"){
-
-                t34<-a34
-            }
-
-            if(combineTechNT[i] == "a35"){
-
-                t35<-a35
-            }
-
-            if(combineTechNT[i] == "a36"){
-
-                t36<-a36
-            }
-
-            if(combineTechNT[i] == "a37"){
-
-                t37<-a37
-            }
-
-            if(combineTechNT[i] == "a38"){
-
-                t38<-a38
-            }
+            # if(combineTechNT[i] == "a14"){
+            #
+            #     t14<-a14
+            # }
+            #
+            # if(combineTechNT[i] == "a15"){
+            #
+            #     t15<-a15
+            # }
+            #
+            # if(combineTechNT[i] == "a16"){
+            #
+            #     t16<-a16
+            # }
+            #
+            # if(combineTechNT[i] == "a17"){
+            #
+            #     t17<-a17
+            # }
+            #
+            # if(combineTechNT[i] == "a18"){
+            #
+            #     t18<-a18
+            # }
+            #
+            # if(combineTechNT[i] == "a19"){
+            #
+            #     t19<-a19
+            # }
+            #
+            # if(combineTechNT[i] == "a20"){
+            #
+            #     t20<-a20
+            # }
+            #
+            # if(combineTechNT[i] == "a21"){
+            #
+            #     t21<-a21
+            # }
+            #
+            # if(combineTechNT[i] == "a22"){
+            #
+            #     t22<-a22
+            # }
+            #
+            # if(combineTechNT[i] == "a23"){
+            #
+            #     t23<-a23
+            # }
+            #
+            # if(combineTechNT[i] == "a24"){
+            #
+            #     t24<-a24
+            # }
+            #
+            # if(combineTechNT[i] == "a25"){
+            #
+            #     t25<-a25
+            # }
+            #
+            # if(combineTechNT[i] == "a26"){
+            #
+            #     t26<-a26
+            # }
+            #
+            # if(combineTechNT[i] == "a27"){
+            #
+            #     t27<-a27
+            # }
+            #
+            # if(combineTechNT[i] == "a28"){
+            #
+            #     t28<-a28
+            # }
+            #
+            # if(combineTechNT[i] == "a29"){
+            #
+            #     t29<-a29
+            # }
+            #
+            # if(combineTechNT[i] == "a30"){
+            #
+            #     t30<-a30
+            # }
+            #
+            # if(combineTechNT[i] == "a31"){
+            #
+            #     t31<-a31
+            # }
+            #
+            # if(combineTechNT[i] == "a32"){
+            #
+            #     t32<-a32
+            # }
+            #
+            # if(combineTechNT[i] == "a33"){
+            #
+            #     t33<-a33
+            # }
+            #
+            # if(combineTechNT[i] == "a34"){
+            #
+            #     t34<-a34
+            # }
+            #
+            # if(combineTechNT[i] == "a35"){
+            #
+            #     t35<-a35
+            # }
+            #
+            # if(combineTechNT[i] == "a36"){
+            #
+            #     t36<-a36
+            # }
+            #
+            # if(combineTechNT[i] == "a37"){
+            #
+            #     t37<-a37
+            # }
+            #
+            # if(combineTechNT[i] == "a38"){
+            #
+            #     t38<-a38
+            # }
 
 
 
         }
 
 
-        notem <- c(t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,
-                   t11,t12,t13,t14,t15,t16,t17,t18,t19,t20,
-                   t21,t22,t23,t24,t25,t26,t27,t28,t29,t30,
-                   t31,t32,t33,t34,t35,t36,t37,t38)
+        notem <- c(t1,t2,t3,t4,
+                   # t5,
+                   t6,t7,t8,t9,t10,
+                   t11,t12
+                   # t13,
+                   # t14,t15,t16,t17,t18,t19,t20,
+                   # t21,t22,t23,t24,t25,t26,t27,t28,t29,t30,
+                   # t31,t32,t33,t34,t35,t36,t37,t38
+                   )
 
         if(length(notem)>1){
 
