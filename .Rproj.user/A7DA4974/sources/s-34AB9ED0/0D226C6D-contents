@@ -13544,7 +13544,7 @@ server <- function(input, output) {
         #########################            Eigenvalue calculation AREA      ###########################################################################
 
         MatrixChck01<-ahp.mat(ahpscale_alvl1, atts = c("Technical", "Economical", "Infrastructure", "Service Standard"), negconvert = TRUE)
-        # #print(MatrixChck01)
+        print(MatrixChck01)
         B=(matrix(unlist(MatrixChck01), nrow=4, ncol=4,  byrow=TRUE))
         A= eigen(B)
         eB = matrix((A$vectors[,1]),nrow=4, ncol=1, byrow= TRUE)
@@ -14098,6 +14098,7 @@ server <- function(input, output) {
         }
 
         final
+
 
 
     })
